@@ -54,6 +54,7 @@ def maheyou_request_data(store_id):
         # print(json_data)
         res = json.loads(json_data)
         if str(res['code']) == '100':
+            log.info('request maheyou data successful. store_id: %s' % store_id)
             return json_data
         else:
             log.warn('request duole failed. res: %s' % res)
