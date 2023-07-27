@@ -1,0 +1,1236 @@
+{
+  "code": 100,
+  "msg": "预约选座",
+  "result": {
+    "is_map": false,
+    "img_place": [
+      "https:\/\/img.5laoban.com\/Public\/images\/08265d9bc3e1fd606d3847a9238c2bc0.jpeg",
+      "https:\/\/img.5laoban.com\/Public\/images\/f940103f9ca8cbcd5c745f79d48e92b6.jpeg",
+      "https:\/\/img.5laoban.com\/Public\/images\/5345cc51d719c183258cc2ce88430559.jpeg"
+    ],
+    "type": 5,
+    "times": [
+      1690350060,
+      1690353660
+    ],
+    "open_time": {
+      "start": 1690300800,
+      "end": 1690387200
+    },
+    "start_day": 1690300800,
+    "start": 1690350000,
+    "area": [
+      {
+        "aid": 7278,
+        "title": "包厢",
+        "desc": "温暖明亮，简约干净",
+        "tips": [
+          "24小时营业，可提前6天预约，1小时起约"
+        ],
+        "place": [
+          {
+            "pid": 78912,
+            "aid": 7278,
+            "title": "碰碰胡（小包）",
+            "price": 1500,
+            "content": "☝4小时起订    ☼  续费半小时起，离店多退少补\n☁充100送20    ☁充300送80    ☁充500送200",
+            "images": [
+              "https:\/\/img.5laoban.com\/Public\/images\/b9127d843b9c8bd719806f0e616d4019.jpeg",
+              "https:\/\/img.5laoban.com\/Public\/images\/197bf7f3b5c92666a232a26dde77e5a3.jpeg"
+            ],
+            "is_lock": 1,
+            "price_des": "小程序卡券套餐中可以直接买券，超出后¥15元\/小时",
+            "vip_price": -100,
+            "max_count": 1,
+            "tags": [
+              "空调",
+              "WiFi",
+              "现代",
+              "无窗",
+              "☀温馨小包  ",
+              "52号大麻将"
+            ],
+            "sale_text": "充值储蓄卡续订更优惠~",
+            "model": 1,
+            "price_type": 1,
+            "price_rule_flag": false,
+            "icon": "",
+            "list": [
+              {
+                "label": "13:41-14:41",
+                "value": 1690350060,
+                "flag": false,
+                "hour": "13",
+                "start": 1690350060,
+                "end": 1690353660,
+                "fname": "空闲",
+                "date_title": "",
+                "status": 0,
+                "sfname": "",
+                "day": "20230726",
+                "status_all": [],
+                "status_all_data": {
+                  "4": null,
+                  "2": null
+                },
+                "count": 0,
+                "is_price": false,
+                "avatar": ""
+              }
+            ],
+            "count_name": "",
+            "btn_title": "预约",
+            "order_group": [],
+            "date_conf": [],
+            "place_group_price": [],
+            "new_date_title": {
+              "title": "",
+              "color": "#FF9A01"
+            },
+            "status": 0,
+            "fname": "空闲",
+            "sfname": "",
+            "date_title": "",
+            "place_info_status": 0,
+            "place_status": 2,
+            "overage": "当日空20小时",
+            "overage_flag": false,
+            "flag": false,
+            "time_line_status": true,
+            "timeline": [
+              {
+                "key": 13,
+                "val": false
+              },
+              {
+                "key": 14,
+                "val": false
+              },
+              {
+                "key": 15,
+                "val": true
+              },
+              {
+                "key": 16,
+                "val": true
+              },
+              {
+                "key": 17,
+                "val": true
+              },
+              {
+                "key": 18,
+                "val": true
+              },
+              {
+                "key": 19,
+                "val": false
+              },
+              {
+                "key": 20,
+                "val": false
+              },
+              {
+                "key": 21,
+                "val": false
+              },
+              {
+                "key": 22,
+                "val": false
+              },
+              {
+                "key": 23,
+                "val": false
+              },
+              {
+                "key": "次",
+                "val": false
+              },
+              {
+                "key": 1,
+                "val": false
+              },
+              {
+                "key": 2,
+                "val": false
+              },
+              {
+                "key": 3,
+                "val": false
+              },
+              {
+                "key": 4,
+                "val": false
+              },
+              {
+                "key": 5,
+                "val": false
+              },
+              {
+                "key": 6,
+                "val": false
+              },
+              {
+                "key": 7,
+                "val": false
+              },
+              {
+                "key": 8,
+                "val": false
+              },
+              {
+                "key": 9,
+                "val": false
+              },
+              {
+                "key": 10,
+                "val": false
+              },
+              {
+                "key": 11,
+                "val": false
+              },
+              {
+                "key": 12,
+                "val": false
+              }
+            ]
+          },
+          {
+            "pid": 78908,
+            "aid": 7278,
+            "title": "杠上花（小包）",
+            "price": 1500,
+            "content": " ☝4小时起订    ☼  续费半小时起，离店多退少补\n☁充100送20    ☁充300送80    ☁充500送200",
+            "images": [
+              "https:\/\/img.5laoban.com\/Public\/images\/c57e66174bbb12fd5d7bedadc53361de.jpeg",
+              "https:\/\/img.5laoban.com\/Public\/images\/dcce4b2c01ac37f05fe75989bbf39ddc.jpeg"
+            ],
+            "is_lock": 1,
+            "price_des": "小程序卡券套餐中可以直接买券，超出后¥15元\/小时",
+            "vip_price": -100,
+            "max_count": 1,
+            "tags": [
+              "空调",
+              "WiFi",
+              "现代",
+              "无窗",
+              "☀精致小包   ",
+              "52号大麻将"
+            ],
+            "sale_text": "充值储蓄卡续订更优惠~",
+            "model": 1,
+            "price_type": 0,
+            "price_rule_flag": false,
+            "icon": "",
+            "list": [
+              {
+                "label": "13:41-14:41",
+                "value": 1690350060,
+                "flag": false,
+                "hour": "13",
+                "start": 1690350060,
+                "end": 1690353660,
+                "fname": "空闲",
+                "date_title": "",
+                "status": 0,
+                "sfname": "",
+                "day": "20230726",
+                "status_all": [],
+                "status_all_data": {
+                  "4": null,
+                  "2": null
+                },
+                "count": 0,
+                "is_price": false,
+                "avatar": ""
+              }
+            ],
+            "count_name": "",
+            "btn_title": "预约",
+            "order_group": [],
+            "date_conf": [],
+            "place_group_price": [],
+            "new_date_title": {
+              "title": "",
+              "color": "#FF9A01"
+            },
+            "status": 0,
+            "fname": "空闲",
+            "sfname": "",
+            "date_title": "",
+            "place_info_status": 0,
+            "place_status": 2,
+            "overage": "当日空19小时",
+            "overage_flag": false,
+            "flag": false,
+            "time_line_status": true,
+            "timeline": [
+              {
+                "key": 13,
+                "val": false
+              },
+              {
+                "key": 14,
+                "val": true
+              },
+              {
+                "key": 15,
+                "val": true
+              },
+              {
+                "key": 16,
+                "val": true
+              },
+              {
+                "key": 17,
+                "val": true
+              },
+              {
+                "key": 18,
+                "val": true
+              },
+              {
+                "key": 19,
+                "val": false
+              },
+              {
+                "key": 20,
+                "val": false
+              },
+              {
+                "key": 21,
+                "val": false
+              },
+              {
+                "key": 22,
+                "val": false
+              },
+              {
+                "key": 23,
+                "val": false
+              },
+              {
+                "key": "次",
+                "val": false
+              },
+              {
+                "key": 1,
+                "val": false
+              },
+              {
+                "key": 2,
+                "val": false
+              },
+              {
+                "key": 3,
+                "val": false
+              },
+              {
+                "key": 4,
+                "val": false
+              },
+              {
+                "key": 5,
+                "val": false
+              },
+              {
+                "key": 6,
+                "val": false
+              },
+              {
+                "key": 7,
+                "val": false
+              },
+              {
+                "key": 8,
+                "val": false
+              },
+              {
+                "key": 9,
+                "val": false
+              },
+              {
+                "key": 10,
+                "val": false
+              },
+              {
+                "key": 11,
+                "val": false
+              },
+              {
+                "key": 12,
+                "val": false
+              }
+            ]
+          },
+          {
+            "pid": 78914,
+            "aid": 7278,
+            "title": "大四喜（普包）",
+            "price": 2000,
+            "content": "☝4小时起订    ☼  续费半小时起，离店多退少补\n☁充100送20    ☁充300送80    ☁充500送200",
+            "images": [
+              "https:\/\/img.5laoban.com\/Public\/images\/50ec24bcc014f22b5eec0f2ee967d39b.jpeg",
+              "https:\/\/img.5laoban.com\/Public\/images\/fee9f559cd130f1516f9d171855e1432.jpeg"
+            ],
+            "is_lock": 1,
+            "price_des": "小程序卡券套餐中可以直接买券，超出后¥20元\/小时",
+            "vip_price": -100,
+            "max_count": 1,
+            "tags": [
+              "空调",
+              "WiFi",
+              "现代",
+              "大飘窗",
+              "☀精致普包   ",
+              "52号大麻将"
+            ],
+            "sale_text": "充值储蓄卡续订更优惠~",
+            "model": 1,
+            "price_type": 0,
+            "price_rule_flag": false,
+            "icon": "",
+            "list": [
+              {
+                "label": "13:41-14:41",
+                "value": 1690350060,
+                "flag": false,
+                "hour": "13",
+                "start": 1690350060,
+                "end": 1690353660,
+                "fname": "空闲",
+                "date_title": "",
+                "status": 0,
+                "sfname": "",
+                "day": "20230726",
+                "status_all": [],
+                "status_all_data": {
+                  "4": null,
+                  "2": null
+                },
+                "is_price": false,
+                "avatar": ""
+              }
+            ],
+            "count_name": "",
+            "btn_title": "预约",
+            "order_group": [],
+            "date_conf": [],
+            "place_group_price": [],
+            "new_date_title": {
+              "title": "",
+              "color": "#FF9A01"
+            },
+            "status": 0,
+            "fname": "空闲",
+            "sfname": "",
+            "date_title": "",
+            "place_info_status": 0,
+            "place_status": 2,
+            "overage": "当日空24小时",
+            "overage_flag": false,
+            "flag": false,
+            "time_line_status": true,
+            "timeline": [
+              {
+                "key": 13,
+                "val": false
+              },
+              {
+                "key": 14,
+                "val": false
+              },
+              {
+                "key": 15,
+                "val": false
+              },
+              {
+                "key": 16,
+                "val": false
+              },
+              {
+                "key": 17,
+                "val": false
+              },
+              {
+                "key": 18,
+                "val": false
+              },
+              {
+                "key": 19,
+                "val": false
+              },
+              {
+                "key": 20,
+                "val": false
+              },
+              {
+                "key": 21,
+                "val": false
+              },
+              {
+                "key": 22,
+                "val": false
+              },
+              {
+                "key": 23,
+                "val": false
+              },
+              {
+                "key": "次",
+                "val": false
+              },
+              {
+                "key": 1,
+                "val": false
+              },
+              {
+                "key": 2,
+                "val": false
+              },
+              {
+                "key": 3,
+                "val": false
+              },
+              {
+                "key": 4,
+                "val": false
+              },
+              {
+                "key": 5,
+                "val": false
+              },
+              {
+                "key": 6,
+                "val": false
+              },
+              {
+                "key": 7,
+                "val": false
+              },
+              {
+                "key": 8,
+                "val": false
+              },
+              {
+                "key": 9,
+                "val": false
+              },
+              {
+                "key": 10,
+                "val": false
+              },
+              {
+                "key": 11,
+                "val": false
+              },
+              {
+                "key": 12,
+                "val": false
+              }
+            ]
+          },
+          {
+            "pid": 78913,
+            "aid": 7278,
+            "title": "十三幺（普包）",
+            "price": 2000,
+            "content": "☝4小时起订    ☼  续费半小时起，离店多退少补\n☁充100送20    ☁充300送80    ☁充500送200",
+            "images": [
+              "https:\/\/img.5laoban.com\/Public\/images\/d1840ff8430b931d9d8001dd48e4857e.jpg",
+              "https:\/\/img.5laoban.com\/Public\/images\/4eef566d176e91f88494d7487ce35e37.jpg",
+              "https:\/\/img.5laoban.com\/Public\/images\/3c9988e8b5d29f78542390fa1c6e9556.jpeg"
+            ],
+            "is_lock": 1,
+            "price_des": "小程序卡券套餐中可以直接买券，超出后¥20元\/小时",
+            "vip_price": -100,
+            "max_count": 1,
+            "tags": [
+              "空调",
+              "WiFi",
+              "现代",
+              "大飘窗",
+              "☀精致普包   ",
+              "52号大麻将"
+            ],
+            "sale_text": "充值储蓄卡续订更优惠~",
+            "model": 1,
+            "price_type": 0,
+            "price_rule_flag": false,
+            "icon": "",
+            "list": [
+              {
+                "label": "13:41-14:41",
+                "value": 1690350060,
+                "flag": false,
+                "hour": "13",
+                "start": 1690350060,
+                "end": 1690353660,
+                "fname": "空闲",
+                "date_title": "",
+                "status": 0,
+                "sfname": "",
+                "day": "20230726",
+                "status_all": [],
+                "status_all_data": {
+                  "4": null,
+                  "2": null
+                },
+                "count": 0,
+                "is_price": false,
+                "avatar": ""
+              }
+            ],
+            "count_name": "",
+            "btn_title": "预约",
+            "order_group": [],
+            "date_conf": [],
+            "place_group_price": [],
+            "new_date_title": {
+              "title": "",
+              "color": "#FF9A01"
+            },
+            "status": 0,
+            "fname": "空闲",
+            "sfname": "",
+            "date_title": "",
+            "place_info_status": 0,
+            "place_status": 2,
+            "overage": "当日空20小时",
+            "overage_flag": false,
+            "flag": false,
+            "time_line_status": true,
+            "timeline": [
+              {
+                "key": 13,
+                "val": false
+              },
+              {
+                "key": 14,
+                "val": false
+              },
+              {
+                "key": 15,
+                "val": true
+              },
+              {
+                "key": 16,
+                "val": true
+              },
+              {
+                "key": 17,
+                "val": true
+              },
+              {
+                "key": 18,
+                "val": true
+              },
+              {
+                "key": 19,
+                "val": false
+              },
+              {
+                "key": 20,
+                "val": false
+              },
+              {
+                "key": 21,
+                "val": false
+              },
+              {
+                "key": 22,
+                "val": false
+              },
+              {
+                "key": 23,
+                "val": false
+              },
+              {
+                "key": "次",
+                "val": false
+              },
+              {
+                "key": 1,
+                "val": false
+              },
+              {
+                "key": 2,
+                "val": false
+              },
+              {
+                "key": 3,
+                "val": false
+              },
+              {
+                "key": 4,
+                "val": false
+              },
+              {
+                "key": 5,
+                "val": false
+              },
+              {
+                "key": 6,
+                "val": false
+              },
+              {
+                "key": 7,
+                "val": false
+              },
+              {
+                "key": 8,
+                "val": false
+              },
+              {
+                "key": 9,
+                "val": false
+              },
+              {
+                "key": 10,
+                "val": false
+              },
+              {
+                "key": 11,
+                "val": false
+              },
+              {
+                "key": 12,
+                "val": false
+              }
+            ]
+          },
+          {
+            "pid": 78911,
+            "aid": 7278,
+            "title": "金钩钓（大包）",
+            "price": 2300,
+            "content": "☝4小时起订    ☼  续费半小时起，离店多退少补\n☁充100送20    ☁充300送80    ☁充500送200",
+            "images": [
+              "https:\/\/img.5laoban.com\/Public\/images\/0602e1a96c9a2f9f7497634b562b81db.jpg",
+              "https:\/\/img.5laoban.com\/Public\/images\/60d84fba6afb1c66e334f328e25cbc5b.jpg",
+              "https:\/\/img.5laoban.com\/Public\/images\/f0c0dc20711f5a3fee0d9ad1df72e08e.jpeg"
+            ],
+            "is_lock": 1,
+            "price_des": "小程序卡券套餐中可以直接买券，超出后¥23元\/小时",
+            "vip_price": -100,
+            "max_count": 1,
+            "tags": [
+              "空调",
+              "WiFi",
+              "大阳台",
+              "现代",
+              "☀精致大包   ",
+              "52号大麻将"
+            ],
+            "sale_text": "充值储蓄卡续订更优惠~",
+            "model": 1,
+            "price_type": 0,
+            "price_rule_flag": false,
+            "icon": "",
+            "list": [
+              {
+                "label": "13:41-14:41",
+                "value": 1690350060,
+                "flag": false,
+                "hour": "13",
+                "start": 1690350060,
+                "end": 1690353660,
+                "fname": "空闲",
+                "date_title": "",
+                "status": 0,
+                "sfname": "",
+                "day": "20230726",
+                "status_all": [],
+                "status_all_data": {
+                  "4": null,
+                  "2": null
+                },
+                "is_price": false,
+                "avatar": ""
+              }
+            ],
+            "count_name": "",
+            "btn_title": "预约",
+            "order_group": [],
+            "date_conf": [],
+            "place_group_price": [],
+            "new_date_title": {
+              "title": "",
+              "color": "#FF9A01"
+            },
+            "status": 0,
+            "fname": "空闲",
+            "sfname": "",
+            "date_title": "",
+            "place_info_status": 0,
+            "place_status": 2,
+            "overage": "当日空24小时",
+            "overage_flag": false,
+            "flag": false,
+            "time_line_status": true,
+            "timeline": [
+              {
+                "key": 13,
+                "val": false
+              },
+              {
+                "key": 14,
+                "val": false
+              },
+              {
+                "key": 15,
+                "val": false
+              },
+              {
+                "key": 16,
+                "val": false
+              },
+              {
+                "key": 17,
+                "val": false
+              },
+              {
+                "key": 18,
+                "val": false
+              },
+              {
+                "key": 19,
+                "val": false
+              },
+              {
+                "key": 20,
+                "val": false
+              },
+              {
+                "key": 21,
+                "val": false
+              },
+              {
+                "key": 22,
+                "val": false
+              },
+              {
+                "key": 23,
+                "val": false
+              },
+              {
+                "key": "次",
+                "val": false
+              },
+              {
+                "key": 1,
+                "val": false
+              },
+              {
+                "key": 2,
+                "val": false
+              },
+              {
+                "key": 3,
+                "val": false
+              },
+              {
+                "key": 4,
+                "val": false
+              },
+              {
+                "key": 5,
+                "val": false
+              },
+              {
+                "key": 6,
+                "val": false
+              },
+              {
+                "key": 7,
+                "val": false
+              },
+              {
+                "key": 8,
+                "val": false
+              },
+              {
+                "key": 9,
+                "val": false
+              },
+              {
+                "key": 10,
+                "val": false
+              },
+              {
+                "key": 11,
+                "val": false
+              },
+              {
+                "key": 12,
+                "val": false
+              }
+            ]
+          },
+          {
+            "pid": 78909,
+            "aid": 7278,
+            "title": "龙七对（大包）",
+            "price": 2300,
+            "content": "☝4小时起订    ☼  续费半小时起，离店多退少补\n☁充100送20    ☁充300送80    ☁充500送200",
+            "images": [
+              "https:\/\/img.5laoban.com\/Public\/images\/3908a371976a08d76f1b96e121e8534c.jpg",
+              "https:\/\/img.5laoban.com\/Public\/images\/5db63710df504094e55e865e7785fe53.jpeg"
+            ],
+            "is_lock": 1,
+            "price_des": "小程序卡券套餐中可以直接买券，超出后¥23元\/小时",
+            "vip_price": -100,
+            "max_count": 1,
+            "tags": [
+              "空调",
+              "WiFi",
+              "新中式国朝",
+              "大飘窗",
+              "☀特色大包   ",
+              "52号大麻将"
+            ],
+            "sale_text": "充值储蓄卡续订更优惠~",
+            "model": 1,
+            "price_type": 0,
+            "price_rule_flag": false,
+            "icon": "",
+            "list": [
+              {
+                "label": "13:41-14:41",
+                "value": 1690350060,
+                "flag": false,
+                "hour": "13",
+                "start": 1690350060,
+                "end": 1690353660,
+                "fname": "空闲",
+                "date_title": "",
+                "status": 0,
+                "sfname": "",
+                "day": "20230726",
+                "status_all": [],
+                "status_all_data": {
+                  "4": null,
+                  "2": null
+                },
+                "is_price": false,
+                "avatar": ""
+              }
+            ],
+            "count_name": "",
+            "btn_title": "预约",
+            "order_group": [],
+            "date_conf": [],
+            "place_group_price": [],
+            "new_date_title": {
+              "title": "",
+              "color": "#FF9A01"
+            },
+            "status": 0,
+            "fname": "空闲",
+            "sfname": "",
+            "date_title": "",
+            "place_info_status": 0,
+            "place_status": 2,
+            "overage": "当日空18小时",
+            "overage_flag": false,
+            "flag": false,
+            "time_line_status": true,
+            "timeline": [
+              {
+                "key": 13,
+                "val": false
+              },
+              {
+                "key": 14,
+                "val": false
+              },
+              {
+                "key": 15,
+                "val": false
+              },
+              {
+                "key": 16,
+                "val": false
+              },
+              {
+                "key": 17,
+                "val": false
+              },
+              {
+                "key": 18,
+                "val": false
+              },
+              {
+                "key": 19,
+                "val": false
+              },
+              {
+                "key": 20,
+                "val": false
+              },
+              {
+                "key": 21,
+                "val": false
+              },
+              {
+                "key": 22,
+                "val": false
+              },
+              {
+                "key": 23,
+                "val": false
+              },
+              {
+                "key": "次",
+                "val": false
+              },
+              {
+                "key": 1,
+                "val": false
+              },
+              {
+                "key": 2,
+                "val": true
+              },
+              {
+                "key": 3,
+                "val": true
+              },
+              {
+                "key": 4,
+                "val": true
+              },
+              {
+                "key": 5,
+                "val": true
+              },
+              {
+                "key": 6,
+                "val": true
+              },
+              {
+                "key": 7,
+                "val": true
+              },
+              {
+                "key": 8,
+                "val": false
+              },
+              {
+                "key": 9,
+                "val": false
+              },
+              {
+                "key": 10,
+                "val": false
+              },
+              {
+                "key": 11,
+                "val": false
+              },
+              {
+                "key": 12,
+                "val": false
+              }
+            ]
+          },
+          {
+            "pid": 78910,
+            "aid": 7278,
+            "title": "清一色（大包）",
+            "price": 2300,
+            "content": "☝4小时起订    ☼  续费半小时起，离店多退少补\n☁充100送20    ☁充300送80    ☁充500送200",
+            "images": [
+              "https:\/\/img.5laoban.com\/Public\/images\/b8364b0d46c1242393cc0ab85d76b446.jpg",
+              "https:\/\/img.5laoban.com\/Public\/images\/ac4ba3a7dec61506d06e06ff4fc3a394.jpg",
+              "https:\/\/img.5laoban.com\/Public\/images\/964d7f929bccdfa5cab6db4bc394269e.jpeg"
+            ],
+            "is_lock": 1,
+            "price_des": "小程序卡券套餐中可以直接买券，超出后¥23元\/小时",
+            "vip_price": -100,
+            "max_count": 1,
+            "tags": [
+              "空调",
+              "WiFi",
+              "新中式国朝",
+              "大飘窗",
+              "☀特色大包   ",
+              "52号大麻将"
+            ],
+            "sale_text": "充值储蓄卡续订更优惠~",
+            "model": 1,
+            "price_type": 1,
+            "price_rule_flag": false,
+            "icon": "",
+            "list": [
+              {
+                "label": "13:41-14:41",
+                "value": 1690350060,
+                "flag": false,
+                "hour": "13",
+                "start": 1690350060,
+                "end": 1690353660,
+                "fname": "空闲",
+                "date_title": "",
+                "status": 0,
+                "sfname": "",
+                "day": "20230726",
+                "status_all": [],
+                "status_all_data": {
+                  "4": null,
+                  "2": null
+                },
+                "is_price": false,
+                "avatar": ""
+              }
+            ],
+            "count_name": "",
+            "btn_title": "预约",
+            "order_group": [],
+            "date_conf": [],
+            "place_group_price": [],
+            "new_date_title": {
+              "title": "",
+              "color": "#FF9A01"
+            },
+            "status": 0,
+            "fname": "空闲",
+            "sfname": "",
+            "date_title": "",
+            "place_info_status": 0,
+            "place_status": 2,
+            "overage": "当日空12小时",
+            "overage_flag": false,
+            "flag": false,
+            "time_line_status": true,
+            "timeline": [
+              {
+                "key": 13,
+                "val": false
+              },
+              {
+                "key": 14,
+                "val": false
+              },
+              {
+                "key": 15,
+                "val": false
+              },
+              {
+                "key": 16,
+                "val": false
+              },
+              {
+                "key": 17,
+                "val": false
+              },
+              {
+                "key": 18,
+                "val": false
+              },
+              {
+                "key": 19,
+                "val": false
+              },
+              {
+                "key": 20,
+                "val": true
+              },
+              {
+                "key": 21,
+                "val": true
+              },
+              {
+                "key": 22,
+                "val": true
+              },
+              {
+                "key": 23,
+                "val": true
+              },
+              {
+                "key": "次",
+                "val": true
+              },
+              {
+                "key": 1,
+                "val": true
+              },
+              {
+                "key": 2,
+                "val": true
+              },
+              {
+                "key": 3,
+                "val": true
+              },
+              {
+                "key": 4,
+                "val": true
+              },
+              {
+                "key": 5,
+                "val": true
+              },
+              {
+                "key": 6,
+                "val": true
+              },
+              {
+                "key": 7,
+                "val": true
+              },
+              {
+                "key": 8,
+                "val": false
+              },
+              {
+                "key": 9,
+                "val": false
+              },
+              {
+                "key": 10,
+                "val": false
+              },
+              {
+                "key": 11,
+                "val": false
+              },
+              {
+                "key": 12,
+                "val": false
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "info": {
+      "aid": 7278,
+      "title": "包厢",
+      "content": "温暖明亮，简约干净",
+      "price": 0,
+      "img": [
+        "https:\/\/img.5laoban.com\/Public\/images\/4de48470620b657a7e49463d873ca5b3.jpg",
+        "https:\/\/img.5laoban.com\/Public\/images\/5f4fe577fe647c1989303181231d4db3.jpg",
+        "https:\/\/img.5laoban.com\/Public\/images\/445a425d310f1d5903675adee6bda1fb.jpg"
+      ],
+      "time_list": null
+    },
+    "max_day": 7,
+    "user_display": 1,
+    "tips": [
+      "24小时营业，可提前6天预约，1小时起约"
+    ],
+    "order_min_time": "3600",
+    "max_times": 0,
+    "time_space": 600,
+    "btn_model": 1,
+    "time_line_show": "1",
+    "btn_show": "0",
+    "start_max_time_status": 0,
+    "start_max_time": 0,
+    "time_box_model": 1
+  }
+}

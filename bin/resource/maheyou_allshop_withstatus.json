@@ -1,0 +1,3961 @@
+{
+    "code": 100,
+    "msg": "地图内门店坐标",
+    "result":
+    {
+        "list":
+        [
+            {
+                "sid": 2984,
+                "name": "广昌县（澳沪滨江豪庭店）",
+                "address": "江西省抚州市广昌县旴江镇河东新区澳泸滨江豪庭5栋5号",
+                "lat": 26.844711,
+                "lng": 116.334312,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/68767f44d623d41b53316c8a08815cd7.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18379406284",
+                "dist": 320873,
+                "enable": 1
+            },
+            {
+                "sid": 619,
+                "name": "嵊州市(仙湖路店)",
+                "address": "浙江省绍兴嵊州市仙湖路172号",
+                "lat": 29.579424,
+                "lng": 120.831245,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/825cd682e50ea53376f3034b7b89bff9.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18368538161",
+                "dist": 624393,
+                "enable": 1
+            },
+            {
+                "sid": 644,
+                "name": "上虞区(万达广场水璟府店)",
+                "address": "浙江省绍兴市上虞区高铁新城万达广场（水璟府）J4-B沿街167商铺",
+                "lat": 30.05039,
+                "lng": 120.847374,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/9d6c2104a09033e87f7fbfdf8e45d1d6.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/3ac29754983ed32a7b9343a9731315b0.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13858549294",
+                "dist": 672628,
+                "enable": 1
+            },
+            {
+                "sid": 700,
+                "name": "嵊州市(富民街店)",
+                "address": "2.浙江省绍兴市嵊州市富民街215号楼2楼 ",
+                "lat": 29.586601,
+                "lng": 120.839752,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/2051dc662b130a7af444577aa365f5f6.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18368538161",
+                "dist": 625467,
+                "enable": 1
+            },
+            {
+                "sid": 702,
+                "name": "嵊州市(花木城店)",
+                "address": "浙江省绍兴市嵊州市鹿山街道长宁路1001号花木交易中心1号楼5楼 ",
+                "lat": 29.573114,
+                "lng": 120.798248,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/bb77e56a46854c7a078c0c8689ffcf3a.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18368538161",
+                "dist": 622392,
+                "enable": 1
+            },
+            {
+                "sid": 712,
+                "name": "金华婺城区(和信路店) ",
+                "address": "浙江省金华市婺城区兰溪街与和信路交叉口西南150米",
+                "lat": 29.062717,
+                "lng": 119.651474,
+                "city_code": 579,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/599f101a4a57a49ba301987d08ab93dc.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15658911700",
+                "dist": 529646,
+                "enable": 1
+            },
+            {
+                "sid": 715,
+                "name": "新昌县(鼓山西路店)",
+                "address": "浙江省绍兴市新昌县鼓山西路200号麻和友24小时智能自助棋牌（鼓山西路店）",
+                "lat": 29.504799,
+                "lng": 120.880386,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/fd394bacc55d77bbea1bc5241bb4fa3f.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13306855146",
+                "dist": 619005,
+                "enable": 1
+            },
+            {
+                "sid": 731,
+                "name": "湖州市  （田盛街店）",
+                "address": "湖州市吴兴区田盛街71-75二楼（虾来虾往私房菜楼上）",
+                "lat": 30.876669,
+                "lng": 120.106506,
+                "city_code": 572,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/425ef0c6834bd17b117539b3eab6d457.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13757664764",
+                "dist": 735520,
+                "enable": 1
+            },
+            {
+                "sid": 840,
+                "name": "宁波（古林店）",
+                "address": "浙江省宁波市海曙区古林镇同春小区怀古路87号",
+                "lat": 29.835924,
+                "lng": 121.432747,
+                "city_code": 574,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/9b436344aac4b5632588515d01653b75.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/97dd495d8c3d54858fd49bde5248577e.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "16657171071",
+                "dist": 676401,
+                "enable": 1
+            },
+            {
+                "sid": 1122,
+                "name": "金华婺城区（骆家塘店）",
+                "address": "华市婺城区新狮街道骆家塘畅达街2号",
+                "lat": 29.121428,
+                "lng": 119.639183,
+                "city_code": 579,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/9c097ade8fb6f643f2676fa94db0332a.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/15bb370d3d29a07bf4d3322c016142bd.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18657952118",
+                "dist": 535577,
+                "enable": 1
+            },
+            {
+                "sid": 1174,
+                "name": "丽水松阳县（西屏街店）",
+                "address": "浙江省丽水市松阳县西屏街道紫荆村3号〈西屏山公园边上）",
+                "lat": 28.451645,
+                "lng": 119.480911,
+                "city_code": 578,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/a130c84222b75f8259b281d5f766d342.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/63b57eb696335f724f97b052a29c647e.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15990491441",
+                "dist": 459820,
+                "enable": 1
+            },
+            {
+                "sid": 1225,
+                "name": "佳木斯向阳区（松林街店）",
+                "address": "黑龙江省佳木斯市向阳区栋梁社区滨江一期R栋112号商服",
+                "lat": 46.819778,
+                "lng": 130.337143,
+                "city_code": 454,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/adb068e0d03d54604ab5924216592fe3.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "04546966222",
+                "dist": 2706826,
+                "enable": 1
+            },
+            {
+                "sid": 1239,
+                "name": "宁波鄞州区（百丈路店）",
+                "address": "鄞州区新河街道甬巷南路舟孟巷15号",
+                "lat": 29.862055,
+                "lng": 121.572357,
+                "city_code": 574,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/80c67ba3fc02b4d07570ade35c8df612.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17301838207",
+                "dist": 685581,
+                "enable": 1
+            },
+            {
+                "sid": 1272,
+                "name": "嵊州市（金湾国际店）",
+                "address": "浙江省绍兴市嵊州市浦口街道经环西路338号金湾国际花城48号",
+                "lat": 29.595552,
+                "lng": 120.839973,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/bcbdcb589f5486415c88752b810ce36e.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13605859528",
+                "dist": 626374,
+                "enable": 1
+            },
+            {
+                "sid": 1454,
+                "name": "嵊州市（三江城四海路店）",
+                "address": "绍兴市嵊州市三江城四海路234号",
+                "lat": 29.579847,
+                "lng": 120.83847,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/496b9ea5e658f7abd1e6df6548583ad3.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13732450047",
+                "dist": 624736,
+                "enable": 1
+            },
+            {
+                "sid": 1465,
+                "name": "四川射洪区（南都尚境店）",
+                "address": "四川省遂宁市射洪市太和镇新华中街与加和街交汇处南都尚境二期8栋2层1号",
+                "lat": 30.855906,
+                "lng": 105.384789,
+                "city_code": 825,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/95a01fcd18ef1225b9dca30f768fd8a4.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "14780004790",
+                "dist": 1442938,
+                "enable": 1
+            },
+            {
+                "sid": 1479,
+                "name": "嘉兴海宁市康乐路店",
+                "address": "海宁市康乐路长田商厦8楼西",
+                "lat": 30.502138,
+                "lng": 120.70948,
+                "city_code": 573,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/a59690ad199c26a4d2890ca5ffc53fad.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15990356077",
+                "dist": 714011,
+                "enable": 1
+            },
+            {
+                "sid": 1489,
+                "name": "湖州市（富城商楼店）",
+                "address": "富城商楼步行街30号2层 洪博教育对面",
+                "lat": 30.868896,
+                "lng": 120.099953,
+                "city_code": 572,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/d9b5d3aa829301604da97aad5933156c.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/1c8f7a92e3409fe65bad1d97c96a6791.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15005729991",
+                "dist": 734521,
+                "enable": 1
+            },
+            {
+                "sid": 1592,
+                "name": "金华市婺城区(金华站南广场店）",
+                "address": "浙江省金华市婺城区城北街道后丰路184号",
+                "lat": 29.110744,
+                "lng": 119.639458,
+                "city_code": 579,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/afef5eaeee475fb0f534962ac38d6a87.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13516976415",
+                "dist": 534444,
+                "enable": 1
+            },
+            {
+                "sid": 1595,
+                "name": "新疆额敏县方城家园店",
+                "address": "新疆塔城地区额敏县文化路方城家园一期10号楼104号",
+                "lat": 46.531742,
+                "lng": 83.644333,
+                "city_code": 901,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/c779e7b8fc5327459a7b7694a04f343d.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/0e1a882985917e3d223887c795b41623.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18099010885",
+                "dist": 3918202,
+                "enable": 1
+            },
+            {
+                "sid": 1724,
+                "name": "东乡区（昌景东路店）",
+                "address": "江西抚州市东乡区金峰街道昌景东路146号",
+                "lat": 28.240952,
+                "lng": 116.611076,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/8549c7e46d8200b41454cb0a9d82d1b5.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18879405020",
+                "dist": 445818,
+                "enable": 1
+            },
+            {
+                "sid": 1764,
+                "name": "武汉洪山（光谷店)",
+                "address": "武汉市洪山区高新二路37号鼎泰关南大厦三楼",
+                "lat": 30.477409,
+                "lng": 114.433273,
+                "city_code": 27,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/393658600e7465deedf6518879834797.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13871014195",
+                "dist": 761446,
+                "enable": 1
+            },
+            {
+                "sid": 1779,
+                "name": "麻和友（上邦百汇城店16楼）",
+                "address": "上邦百汇城后门旁，骏豪广场2号楼16楼1602",
+                "lat": 20.021887,
+                "lng": 110.324554,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/f23d2b4684ae4212bf4c7e5944f80af4.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15798951730",
+                "dist": 947151,
+                "enable": 1
+            },
+            {
+                "sid": 1803,
+                "name": "麻和友（平昌店）",
+                "address": "镇江新区平昌路112号万购广场3楼306号",
+                "lat": 32.143909,
+                "lng": 119.713211,
+                "city_code": 511,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/84b685af4f7587f2ee668bebd53087fa.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17768766533",
+                "dist": 864576,
+                "enable": 1
+            },
+            {
+                "sid": 1827,
+                "name": "佛山南海区（沙涌店）",
+                "address": "广东佛山南海里水沙涌大道中2号大众商务公寓二楼",
+                "lat": 23.142342,
+                "lng": 113.164185,
+                "city_code": 757,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/07f47ea4a0bb0aa18a6cb33ad6076035.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13928662712",
+                "dist": 530792,
+                "enable": 1
+            },
+            {
+                "sid": 1970,
+                "name": "麻和友（茂悦府店）",
+                "address": "杭州市上城区茂悦府1幢底商3号 ",
+                "lat": 30.30279,
+                "lng": 120.247963,
+                "city_code": 571,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/880c93df73bbc5c8c4a38967043c8325.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/5fd551c69f7402522536504e57008d9f.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15957144074",
+                "dist": 678326,
+                "enable": 1
+            },
+            {
+                "sid": 2033,
+                "name": "麻和友（义峰路店）",
+                "address": "德安县义峰路136号",
+                "lat": 29.318581,
+                "lng": 115.752159,
+                "city_code": 792,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/f2f18218265ad05010af72e6fe42d4db.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15258213162",
+                "dist": 588652,
+                "enable": 1
+            },
+            {
+                "sid": 2040,
+                "name": "上虞（开发区店）",
+                "address": "绍兴市上虞区曹娥街道江滨新村22幢8-9号营业房",
+                "lat": 30.015602,
+                "lng": 120.866142,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/e7aa37d46e6dfee410b6fe6d7f6de614.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/34150428dc5bec64189c9a85b041e269.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13357547776",
+                "dist": 669823,
+                "enable": 1
+            },
+            {
+                "sid": 2078,
+                "name": "麻和友(新狮店)",
+                "address": "浙江省金华市婺城区新狮街道方井头小区1幢10号",
+                "lat": 29.13706,
+                "lng": 119.660065,
+                "city_code": 579,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/7cd783466ce060310aa8db151a9e09fc.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15167958683",
+                "dist": 537810,
+                "enable": 1
+            },
+            {
+                "sid": 2121,
+                "name": "麻和友（朝辉路店）",
+                "address": "越城区凤江路4号",
+                "lat": 29.97813,
+                "lng": 120.579697,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/ca603f9f0fab0c8ba854a158851c6766.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/8512002e4ec19a01bba304d539cc6d03.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13957566408",
+                "dist": 655255,
+                "enable": 1
+            },
+            {
+                "sid": 2171,
+                "name": "山西临汾（曲郑路店）",
+                "address": "山西省临汾市曲沃县曲郑路美世界酒店7楼",
+                "lat": 35.652313,
+                "lng": 111.475578,
+                "city_code": 357,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/248f437b0d621b04189382ff62324906.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19135706161",
+                "dist": 1397614,
+                "enable": 1
+            },
+            {
+                "sid": 2172,
+                "name": "麻和友（汽车广场店）",
+                "address": "江西国际汽车广场（汽车大道南100米）",
+                "lat": 28.52363,
+                "lng": 115.92131,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/1920fe93a25a606aae31590466f38273.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/5d11a2c517cfa91a6442631b86012ac4.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15970440252",
+                "dist": 501954,
+                "enable": 1
+            },
+            {
+                "sid": 2237,
+                "name": "湖州（现代广场店）",
+                "address": "浙江省湖州市吴兴区 飞英街道 现代广场D座南宁长巷151号2楼",
+                "lat": 30.868313,
+                "lng": 120.106201,
+                "city_code": 572,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/ebd2b3ff5dbbe1191d9a9836a3b66b00.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18768392239",
+                "dist": 734617,
+                "enable": 1
+            },
+            {
+                "sid": 2238,
+                "name": "莲塘（力高店）",
+                "address": "南昌市南昌县莲塘镇莲西路269号力高君御都会2号商铺108 109 110 111室",
+                "lat": 28.537237,
+                "lng": 115.930191,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/b463b379e0a9ea6aeebe8dd3896031ac.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/8a95d73f10306e4c33965a63bc9678ef.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18970800595",
+                "dist": 502909,
+                "enable": 1
+            },
+            {
+                "sid": 2267,
+                "name": "麻和友（练市迎宾路店）",
+                "address": "浙江省湖州市南浔区练市镇迎宾路19号",
+                "lat": 30.712917,
+                "lng": 120.418137,
+                "city_code": 572,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/06c7c3c24bbd6ee19ab870a13c70edb8.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15157249481",
+                "dist": 726708,
+                "enable": 1
+            },
+            {
+                "sid": 2292,
+                "name": "麻和友（怪咖棋牌公社）",
+                "address": "镇江大港新区玉兰苑北门2-1",
+                "lat": 32.159958,
+                "lng": 119.680435,
+                "city_code": 511,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/f72b2e3bcf8363c9877713c0e56617eb.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/dbff84551577fa50380a6e0353f20ad6.jpg",
+                "open_time":
+                [
+                    "06:00",
+                    "22:00"
+                ],
+                "telephone": "13952869245",
+                "dist": 865781,
+                "enable": 1
+            },
+            {
+                "sid": 2302,
+                "name": "台州三门（长城宾馆店）",
+                "address": "浙江省三门县上洋路69号",
+                "lat": 29.118908,
+                "lng": 121.3759,
+                "city_code": 576,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/56ac81281254332992878443bac287e4.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15355636368",
+                "dist": 605101,
+                "enable": 1
+            },
+            {
+                "sid": 2390,
+                "name": "麻和友（滨湖惠园店）",
+                "address": "合肥市滨湖新区滨湖惠园西大门芙蓉兴盛超市",
+                "lat": 31.730614,
+                "lng": 117.276535,
+                "city_code": 551,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/efa41fc51c0d25036d2b352675cd3fff.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15385512078",
+                "dist": 810306,
+                "enable": 1
+            },
+            {
+                "sid": 2402,
+                "name": "麻和友（金江店）",
+                "address": "海南省澄迈县金江镇华兴路37号（华声网吧4楼）",
+                "lat": 19.741636,
+                "lng": 110.005135,
+                "city_code": 804,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/e0a74fc3575242166e6f2df5d29b03b1.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17722631454",
+                "dist": 992144,
+                "enable": 1
+            },
+            {
+                "sid": 2431,
+                "name": "麻和友（海大南门店）",
+                "address": "海口市美兰区海甸三西路24-1号（铂杨精品酒店上2楼）",
+                "lat": 20.050022,
+                "lng": 110.333572,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/7cb613f5b4575883e7c0a45663d0c3cd.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/3527718b597ebf9484b23b44c1dee066.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15798951730",
+                "dist": 944662,
+                "enable": 1
+            },
+            {
+                "sid": 2470,
+                "name": "麻和友（海口市海甸邦敦店）",
+                "address": "海南省海口市美兰区邦墩西路11号二楼（邦敦居委会对面）",
+                "lat": 20.05315,
+                "lng": 110.337784,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/9b27919a2a3073691e48f33b114e3df7.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/c5005b823117dcd065dd145d4a8b25bb.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15798951730",
+                "dist": 944104,
+                "enable": 1
+            },
+            {
+                "sid": 2510,
+                "name": "嵊州市（和悦广场店）",
+                "address": "浙江省绍兴嵊州市双塔路1888号5幢111号",
+                "lat": 29.601505,
+                "lng": 120.841881,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/0b4b3d84ab1cd5073922776ed001873c.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/2e36a2dea0033bfb07162e4a5cf91223.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18368538161",
+                "dist": 627050,
+                "enable": 1
+            },
+            {
+                "sid": 2548,
+                "name": "麻和友（雾凇中路店）",
+                "address": "吉林省吉林市昌邑区公园道一号三期4号楼网点1011号",
+                "lat": 43.870991,
+                "lng": 126.548286,
+                "city_code": 432,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/32595eaeb63f04c15803fc58ab66e1e3.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/a88b81af62bc3836a2cdfcdecb34c37a.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18943221661",
+                "dist": 2284924,
+                "enable": 1
+            },
+            {
+                "sid": 2579,
+                "name": "南昌（上海路君顺大厦店）",
+                "address": "青山湖区上海路317、319号4栋二楼",
+                "lat": 28.66308,
+                "lng": 115.940971,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/9936b4e12b780a0fe885e30256f9f3d0.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/55af8777020ca47b7b71a0c83c32eb55.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17611009355",
+                "dist": 514959,
+                "enable": 1
+            },
+            {
+                "sid": 2631,
+                "name": "麻和友（京华城店）",
+                "address": "海口市龙华区玉沙路京华城A区2栋1402房（屈臣氏楼上）",
+                "lat": 20.02697,
+                "lng": 110.319725,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/fadf62f3fb7e1bf20060a5d7f4a97335.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/a7c58184bc2f0dab21c07d86a61a3b94.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18976211373",
+                "dist": 947267,
+                "enable": 1
+            },
+            {
+                "sid": 2648,
+                "name": "南昌（丽湖家园店）",
+                "address": "江西省南昌市南昌县向塘镇丽湖家园14栋一楼",
+                "lat": 28.458979,
+                "lng": 115.946762,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/152269f9b08c3b79af7c56109e74dbdf.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/9a97d1ffd1739fe070ace1710c000a91.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13970963254",
+                "dist": 494426,
+                "enable": 1
+            },
+            {
+                "sid": 2655,
+                "name": "麻和友（永通店）",
+                "address": "江西省南昌县莲塘镇澄湖西路1922号",
+                "lat": 28.567671,
+                "lng": 115.925804,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/12e2d5ed22ab3f520289ce3797c99ee6.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/3143183b4edf69b4c818fa88857db723.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13807061000",
+                "dist": 506121,
+                "enable": 1
+            },
+            {
+                "sid": 2657,
+                "name": "青岛市(星河城店)",
+                "address": "青岛市东岳中路隐珠泰山路757号银盛泰·星河城A区忘网点757-9室",
+                "lat": 35.892731,
+                "lng": 120.033844,
+                "city_code": 532,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/f13c927ed1bf1ab50115ab8a29c2c6fb.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/e1cd0118e4e732767b987cae3eca4719.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19511304710",
+                "dist": 1280434,
+                "enable": 1
+            },
+            {
+                "sid": 2670,
+                "name": "湖南株洲(芦淞区建设南路店）",
+                "address": "湖南省株洲市芦淞区建设南路108号家润多广场B栋西厅2401",
+                "lat": 27.837082,
+                "lng": 113.151917,
+                "city_code": 733,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/dcbd9d3fafde7f50e55008c92eb45920.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18711390039",
+                "dist": 624479,
+                "enable": 1
+            },
+            {
+                "sid": 2683,
+                "name": "南昌（莲塘唐庄店）",
+                "address": "江西省南昌市南昌县斗柏路247号二楼",
+                "lat": 28.543783,
+                "lng": 115.929657,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/a9fdf6dfb56e3fbf27020cff7fb1eb2a.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/3174f8533097835ce48afed76865a096.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15879127750",
+                "dist": 503582,
+                "enable": 1
+            },
+            {
+                "sid": 2685,
+                "name": "建德（建德大宅门店）",
+                "address": "浙江省杭州市建德新安江新中后巷22栋",
+                "lat": 29.478985,
+                "lng": 119.285469,
+                "city_code": 571,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/faa6ac82995ead87896b1bf40c8a2715.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/b09bf618b47809ce15e3492af9323432.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13777362548",
+                "dist": 566046,
+                "enable": 1
+            },
+            {
+                "sid": 2686,
+                "name": "南昌（尤口花园店)  ",
+                "address": "江西省南昌市高新区昌东镇尤口花园1栋1-109-4 ",
+                "lat": 28.723461,
+                "lng": 116.038872,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/ec49df64dd370c44ebe76ed30b61aef1.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/8b57b33021a288e5336c793901f5a267.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19979961313",
+                "dist": 516927,
+                "enable": 1
+            },
+            {
+                "sid": 2688,
+                "name": "嵊州长乐（紫南苑店）",
+                "address": "浙江省嵊州市长乐镇 勤政路1号紫南苑28号、28-1号 紫南苑店 ",
+                "lat": 29.460648,
+                "lng": 120.613907,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/63a609a24e8fdea52af50501fa482f7b.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13567595789",
+                "dist": 603589,
+                "enable": 1
+            },
+            {
+                "sid": 2689,
+                "name": "兰溪市（彩虹城店）",
+                "address": "金华兰溪应总 浙江省金华市兰溪市创业大道111号彩虹城e幢104",
+                "lat": 29.227171,
+                "lng": 119.403786,
+                "city_code": 579,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/8001ae4a8ef1041152c083f674d81509.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "",
+                "dist": 541163,
+                "enable": 1
+            },
+            {
+                "sid": 2699,
+                "name": "麻和友（四大街店）",
+                "address": "廊坊市广阳区四大街南外街麻和友棋牌公社",
+                "lat": 39.53355,
+                "lng": 116.710358,
+                "city_code": 316,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/19be85e61b925c234d92e0e2b98f56b6.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/f5401a353d6339908389c9b0433aabb4.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18701247736",
+                "dist": 1678230,
+                "enable": 1
+            },
+            {
+                "sid": 2707,
+                "name": "麻和友（珠海路店）",
+                "address": "遵义市汇川区珠海路丰乐学府C栋4-6",
+                "lat": 27.720369,
+                "lng": 106.929085,
+                "city_code": 852,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/f8654cca6800f0499e6775a94416738a.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18212152109",
+                "dist": 1178065,
+                "enable": 1
+            },
+            {
+                "sid": 2715,
+                "name": "金华婺城区（胜利街店）",
+                "address": "浙江省金华市婺城区城中街道胜利街 288号",
+                "lat": 29.10338,
+                "lng": 119.66053,
+                "city_code": 579,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/5a4575cae64a48203c278a18c691065e.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13335974406",
+                "dist": 534230,
+                "enable": 1
+            },
+            {
+                "sid": 2720,
+                "name": "麻和友（象湖小洲路店） ",
+                "address": "江西省南昌市南昌县小洲路460号",
+                "lat": 28.593855,
+                "lng": 115.884033,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/81f578ef202236fb7e6d581952bfb918.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/35932938000b71730a244cb2e9090f25.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19979868318",
+                "dist": 510559,
+                "enable": 1
+            },
+            {
+                "sid": 2724,
+                "name": "麻和友（象湖莲安路店）",
+                "address": "南昌市南昌县小蓝经开区银湖莲安路220号力高澜湖郡2栋大商业101室",
+                "lat": 28.575308,
+                "lng": 115.884209,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/a31fdca315c63d81c5b174d530df5467.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13077992249",
+                "dist": 508716,
+                "enable": 1
+            },
+            {
+                "sid": 2729,
+                "name": "嵊州（尚望名苑店）",
+                "address": "嵊州市尚望名苑沿街商铺25号2楼",
+                "lat": 29.573561,
+                "lng": 120.82325,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/cd9a777968ef1e9afe8e37697699e226.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18251781843",
+                "dist": 623472,
+                "enable": 1
+            },
+            {
+                "sid": 2733,
+                "name": "麻和友 （象湖景城名郡店）",
+                "address": "南昌市南昌县昌南新城金沙二路2987-1号",
+                "lat": 28.583223,
+                "lng": 115.881134,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/29513e7b6c562e13a3fdc10c4dc8ec8c.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13879193372",
+                "dist": 509636,
+                "enable": 1
+            },
+            {
+                "sid": 2734,
+                "name": "江西赣州（公园大观店）",
+                "address": "云星公园大观11号楼第一层7-8#店铺",
+                "lat": 25.815687,
+                "lng": 114.917732,
+                "city_code": 797,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/d777daf86ddabed6b1b2e48c456d80b3.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/4e52f75c2f27c772020992fbcbfad2c1.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13684879959",
+                "dist": 359692,
+                "enable": 1
+            },
+            {
+                "sid": 2737,
+                "name": "常州市（北大街店）",
+                "address": "江苏省常州市钟楼区北大街96号兰洋大厦C座",
+                "lat": 31.783951,
+                "lng": 119.955856,
+                "city_code": 519,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/907331f9c1d5379d6c0e6a3c41d7bc48.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/55cac2840b5cec745b447ecbc4630472.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18115796989",
+                "dist": 829920,
+                "enable": 1
+            },
+            {
+                "sid": 2749,
+                "name": "海口（吾悦广场店）",
+                "address": "海口市龙华区吾悦广场S6栋323A和325商铺",
+                "lat": 19.976816,
+                "lng": 110.339622,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/5728759d7dbe0a4d08ea020ed2f49260.png",
+                "logo": "https://img.5laoban.com/Public/logo/b559a4a7dd8d2548d897cbdc3390ecc3.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13307537513",
+                "dist": 948571,
+                "enable": 1
+            },
+            {
+                "sid": 2750,
+                "name": "南浔（南方新世界店）",
+                "address": "南浔区南方新世界广场D幢三楼312（广场南门扶梯上三楼）",
+                "lat": 30.865023,
+                "lng": 120.409912,
+                "city_code": 572,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/9268a49df21a3630685f9989bb34ee20.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/d2c352cdd5a3f9340e2c56d67fb22071.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18857255486",
+                "dist": 742543,
+                "enable": 1
+            },
+            {
+                "sid": 2756,
+                "name": "驻马店市(惠邦联盟新城店)",
+                "address": "雪松路喜盈门悦乐广场向西100米写字楼2311–2313室 ",
+                "lat": 32.987442,
+                "lng": 114.002441,
+                "city_code": 396,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/980c8566f941deb7b69b4e47f267fc8d.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/8116414a232c1ac9ce2d188079cf4268.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18625304741",
+                "dist": 1028660,
+                "enable": 1
+            },
+            {
+                "sid": 2763,
+                "name": "麻和友（新龙花苑店）",
+                "address": "江西省抚州市东乡区孝岗镇新龙花苑67栋01号店铺二楼（新龙花苑店）",
+                "lat": 28.249121,
+                "lng": 116.607506,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/2cdf8fd418ac3376265a423d880098c3.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15607941179",
+                "dist": 446790,
+                "enable": 1
+            },
+            {
+                "sid": 2768,
+                "name": "麻和友（星港湾店）",
+                "address": "抚州市东乡区孝岗镇闽鸿星港湾12栋03、04号店面",
+                "lat": 28.23744,
+                "lng": 116.623093,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/2a0ad64d2eabece60cbc6c844cf4bdcd.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/64d6a298b587eab385ce2c44ca3f4c79.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19194950850",
+                "dist": 445036,
+                "enable": 1
+            },
+            {
+                "sid": 2792,
+                "name": "乐陵市（翡翠绿洲店）",
+                "address": "山东乐陵阜平西路翡翠绿洲小区沿街12号 ",
+                "lat": 37.725983,
+                "lng": 117.199028,
+                "city_code": 534,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/1836e9801ba7e02c674bc4401b218abb.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15624321365",
+                "dist": 1474648,
+                "enable": 1
+            },
+            {
+                "sid": 2793,
+                "name": "麻和友（国贸店）",
+                "address": "海南省海口市龙华区港澳发展大厦14楼14C1（出电梯右手边）",
+                "lat": 20.025503,
+                "lng": 110.321396,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/39298ba37365b83023e290955e206793.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/bcb76cf5cb153d93abda7f42b464a49a.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19943347621",
+                "dist": 947209,
+                "enable": 1
+            },
+            {
+                "sid": 2796,
+                "name": "麻和友(毕加索莲安北路店) ",
+                "address": "江西省南昌市南昌县莲塘镇莲安北路",
+                "lat": 28.554052,
+                "lng": 115.91967,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/7395a32c9cb93a6a10107bab58a2e4f1.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/8b4440a8191a1ec838549640e50d29dd.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": " 15083841024",
+                "dist": 505040,
+                "enable": 1
+            },
+            {
+                "sid": 2800,
+                "name": "麻和友（红谷滩旗舰店）",
+                "address": "江西省南昌市红谷滩区卫东花园一期西区鼎盛行车服务二楼",
+                "lat": 28.680988,
+                "lng": 115.838356,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/f11cbec8d0fa6fc6341c919351ce03b0.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/f20702d8577ab920f7db5db0b41d6f0e.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13317054246",
+                "dist": 521209,
+                "enable": 1
+            },
+            {
+                "sid": 2801,
+                "name": "临川区（凤凰城店）",
+                "address": "江西抚州临川区金巢大道198号凤凰城商业街电话号码19136868225",
+                "lat": 27.975241,
+                "lng": 116.364685,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/8974394ee3b802f104cd988107c9b64b.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19136868225",
+                "dist": 428108,
+                "enable": 1
+            },
+            {
+                "sid": 2831,
+                "name": "麻和友（象山南路店）",
+                "address": "江西省 南昌市西湖区象山南路467号 景田大厦2一21 ",
+                "lat": 28.674358,
+                "lng": 115.892174,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/a21413049ce826a4e9b5e47c528afb55.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/79e0976a11456bbf34312680a8f5a255.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13755660005",
+                "dist": 518190,
+                "enable": 1
+            },
+            {
+                "sid": 2838,
+                "name": "麻和友（幸福城店）",
+                "address": "江西省抚州市东乡区广汉幸福城26栋9110商铺",
+                "lat": 28.227135,
+                "lng": 116.58844,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/6efd0e34c66d17b775cadd08968952b3.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/e86c134151d26a5d25d1049749e6908b.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18167304103",
+                "dist": 445178,
+                "enable": 1
+            },
+            {
+                "sid": 2842,
+                "name": "麻和友（瑞州街道店）",
+                "address": "江西省宜春市高安市瑞州街道凤凰八村2栋2楼",
+                "lat": 28.42222,
+                "lng": 115.385788,
+                "city_code": 795,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/ec4a95697412dc1d8edd7524909b4bf2.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/e73d46fd5be7e3bf00ca0eb786779905.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18720962903",
+                "dist": 518393,
+                "enable": 1
+            },
+            {
+                "sid": 2870,
+                "name": "迎宾大道（桂花苑店）",
+                "address": "南昌市南昌县迎宾中大道1089号金桂花园小区7#商铺南昌(迎宾大道",
+                "lat": 28.572786,
+                "lng": 115.913521,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/b8acf7c4d81289f7a5c31e88f819cb1d.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/bc1519970e20f109158b3f33fce92257.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18170033543",
+                "dist": 507168,
+                "enable": 1
+            },
+            {
+                "sid": 2872,
+                "name": "南昌高新大道（黑石店）",
+                "address": "江西省南昌市南昌县青山湖区高新大道C5栋01号（申昌榕名烟名酒生活超市）",
+                "lat": 28.66263,
+                "lng": 115.9646,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/e4a89decfa286fec2d184366d05c0481.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/24e84e2780fe7620ae7f11915d0aab50.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19313560092",
+                "dist": 513907,
+                "enable": 1
+            },
+            {
+                "sid": 2873,
+                "name": " 麻和友（莲塘定岗店） ",
+                "address": "澄湖西路2250号2252号",
+                "lat": 28.577785,
+                "lng": 115.923759,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/3879a3bf2ed8c1528a4b6635a9a3d091.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/a0034da289cc26397a111331a302c18f.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15079583226",
+                "dist": 507214,
+                "enable": 1
+            },
+            {
+                "sid": 2878,
+                "name": "南昌（ 水岸皇庭店）",
+                "address": " 江西省南昌市南昌县站前西路299号 水岸皇庭",
+                "lat": 28.549314,
+                "lng": 115.940353,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/c47a56b022ec6a9683cdb9cd8051470a.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18970082103",
+                "dist": 503660,
+                "enable": 1
+            },
+            {
+                "sid": 2885,
+                "name": "南昌（上海路爱购广场店） ",
+                "address": "江西省南昌市青山湖区上海北路300号爱购时尚广场三楼",
+                "lat": 28.678499,
+                "lng": 115.940407,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/c8021dfc524445840da42851103eb41b.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/b3407e618dad1441b2a8999ef1b7a55e.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17611009355",
+                "dist": 516523,
+                "enable": 1
+            },
+            {
+                "sid": 2933,
+                "name": "南昌（路通城邦店）",
+                "address": "江西省南昌市南昌县莲塘镇莲塘南大道717号路通路通城邦住宅区47栋一单元112室",
+                "lat": 28.527328,
+                "lng": 115.946915,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/67eb3d9c603eda6ac0c70e32e3ae5dba.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18170062157",
+                "dist": 501190,
+                "enable": 1
+            },
+            {
+                "sid": 2934,
+                "name": "南昌(洪都店）",
+                "address": "江西省南昌市青云谱(区/县)门牌号为鸿鹏府邸 8-1-115面二楼 ",
+                "lat": 28.63673,
+                "lng": 115.921669,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/fafa5e9e9c9025bfa359b1e1ed0b5804.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/2a40f0dc99d6b5eba80a73842333f777.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13627083607",
+                "dist": 513165,
+                "enable": 1
+            },
+            {
+                "sid": 2960,
+                "name": "麻和友（官河路店-祥和棋牌）",
+                "address": "浙江省嵊州市官河路493号。",
+                "lat": 29.597404,
+                "lng": 120.828171,
+                "city_code": 575,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/10297e317d7389c85ef95cab212b99bc.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/136d6a4616aa4756a582add59a76f2aa.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13335750905",
+                "dist": 626069,
+                "enable": 1
+            },
+            {
+                "sid": 2973,
+                "name": "慈溪周巷(环城北路店)",
+                "address": "浙江省慈溪市周巷镇环城北路451号（衢州农家菜东侧）",
+                "lat": 30.185659,
+                "lng": 121.136337,
+                "city_code": 574,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/323e7eb370523daed53e283d6b80962f.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/52c869e8fe06baa1b90b76b4a274d812.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15867899988",
+                "dist": 697854,
+                "enable": 1
+            },
+            {
+                "sid": 2975,
+                "name": "南通市（裕豪大厦店）",
+                "address": "江苏省南通市通州区川姜镇三合口村七组01号\n",
+                "lat": 31.961376,
+                "lng": 121.051224,
+                "city_code": 513,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/4cd11f807a30e4d5af239d188247dff5.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15951410552",
+                "dist": 877412,
+                "enable": 1
+            },
+            {
+                "sid": 2976,
+                "name": "东乡区（盐业大楼店）",
+                "address": "抚州市东乡区恒安西路410号二楼",
+                "lat": 28.234415,
+                "lng": 116.593597,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/2c37cf580ad81c6c4b3469ce1d3093b2.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/9b5d293d3c0f8ed78483d288b9a871ba.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17607943402",
+                "dist": 445751,
+                "enable": 1
+            },
+            {
+                "sid": 2994,
+                "name": "莲塘（采知轩店）",
+                "address": "江西省南昌市南昌县农科路989号 ",
+                "lat": 28.560978,
+                "lng": 115.920151,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/5f9a062c4f61ebde117978f3c3892860.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17370050527",
+                "dist": 505705,
+                "enable": 1
+            },
+            {
+                "sid": 3050,
+                "name": "蒙自市（红河学院店）",
+                "address": "云南省蒙自市东南组团小区357号",
+                "lat": 23.345978,
+                "lng": 103.42392,
+                "city_code": 873,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/81a0ba6bc1690ece001d2fca4d1b9e6e.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15543590568",
+                "dist": 1503191,
+                "enable": 1
+            },
+            {
+                "sid": 3051,
+                "name": "永新县（嘉禾新城店）",
+                "address": "吉安市永新县禾川镇袍田新区嘉禾新城5#楼106商铺",
+                "lat": 26.959286,
+                "lng": 114.253899,
+                "city_code": 796,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/ab7709f6dd2ed4a6a43e8a1e3f7cc61f.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/b4c6e40c0ee75b34fe76f63d6af3edf6.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18244970625",
+                "dist": 479500,
+                "enable": 1
+            },
+            {
+                "sid": 3052,
+                "name": "德政街（农民街店）",
+                "address": "抚州市东乡区孝岗镇德政街(农民街)308号一二楼",
+                "lat": 28.236271,
+                "lng": 116.617332,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/5f12a4f419cf8d3e2d319dc9b316b391.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/93446487b636a779e0bbd2e344424bd6.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15814612071",
+                "dist": 445114,
+                "enable": 1
+            },
+            {
+                "sid": 3053,
+                "name": "麻和友（上邦百汇城店15楼）",
+                "address": "上邦百汇城后门旁，骏豪广场2号楼15楼1502",
+                "lat": 20.021887,
+                "lng": 110.324554,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/ccbbfbb80ef4dc56ba9ce92fc90308a2.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/a11f9eac950bd4ff100befae2e4da767.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15798951730",
+                "dist": 947151,
+                "enable": 1
+            },
+            {
+                "sid": 3055,
+                "name": "海南想向力(滨涯新村店) ",
+                "address": "海南省海口市滨涯新村250村第二层  ",
+                "lat": 19.999132,
+                "lng": 110.298592,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/e2c08d6a0533afd71900e8aea484bcc9.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13518862621",
+                "dist": 950802,
+                "enable": 1
+            },
+            {
+                "sid": 3056,
+                "name": "南昌上海北路（青湖欢乐街店）",
+                "address": "南昌市青山湖区上海北路青山湖欢乐街二楼B221 ",
+                "lat": 28.692598,
+                "lng": 115.944328,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/37c54bafc0629f07fb5152ae6dcf0f1c.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "186 7918 0858",
+                "dist": 517765,
+                "enable": 1
+            },
+            {
+                "sid": 3057,
+                "name": "麻和友（朱桥东路店）",
+                "address": "南昌市青云谱区朱桥东路店朱桥花园小区沿街A05-03 113 114 115 116 117（二楼）",
+                "lat": 28.607273,
+                "lng": 115.938705,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/17ee863fa0b4e8567e0d074034bbc520.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/57433c55cb17d7e81dcf36d0d6f3efa9.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15879113856",
+                "dist": 509494,
+                "enable": 1
+            },
+            {
+                "sid": 3058,
+                "name": "金华武义 （东升路店）",
+                "address": "武义县东升东路40号（剑锋水果）后面",
+                "lat": 28.898678,
+                "lng": 119.821838,
+                "city_code": 579,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/8e6404296d7acdd0fc862c7d2c4e6a5a.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/f133b76d470ff7841a3992c3a69a6524.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15657786621",
+                "dist": 517270,
+                "enable": 1
+            },
+            {
+                "sid": 3066,
+                "name": "台州市（天台万亚店）",
+                "address": "浙江省台州市天台万亚广场3-1",
+                "lat": 29.140251,
+                "lng": 121.0326,
+                "city_code": 576,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/cc6f0b0fbf3af9b4e056dcb211b11ac7.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15268863202",
+                "dist": 590040,
+                "enable": 1
+            },
+            {
+                "sid": 3072,
+                "name": "深圳（宝安西乡华丰店）",
+                "address": "深圳市宝安区西乡街道共乐社区共和工业路45号华丰商务中心A座216",
+                "lat": 22.583685,
+                "lng": 113.86544,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/25d74e6428241406f57ca799ff35451c.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19166279731",
+                "dist": 487169,
+                "enable": 1
+            },
+            {
+                "sid": 3075,
+                "name": "张家港市（凤凰西张店）",
+                "address": "江苏省苏州市张家港市凤凰镇 金谷路6-10号",
+                "lat": 31.783777,
+                "lng": 120.630806,
+                "city_code": 512,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/bfa327e2b016637e99ae944ac44b46c9.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17346580993",
+                "dist": 846235,
+                "enable": 1
+            },
+            {
+                "sid": 3080,
+                "name": "延安市(红化店)",
+                "address": "陕西省延安市宝塔区红化转盘AC3号楼门面房，二层三层 ",
+                "lat": 36.575581,
+                "lng": 109.464813,
+                "city_code": 911,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/4352bf64bbfe00690fd9beb5e2fcb968.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/5c4d464b67c611b9d86241aef1415c9d.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15991106191",
+                "dist": 1579790,
+                "enable": 1
+            },
+            {
+                "sid": 3085,
+                "name": "都昌（东风大道店）",
+                "address": "江西省九江市都昌县东风大道31号",
+                "lat": 29.268259,
+                "lng": 116.196091,
+                "city_code": 792,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/6a8685d9d3a28205d4f2cc6db3e5f8f3.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18679254555",
+                "dist": 566895,
+                "enable": 1
+            },
+            {
+                "sid": 3087,
+                "name": "宜春（时代广场店）",
+                "address": "上高县时代广场B栋3楼",
+                "lat": 28.235085,
+                "lng": 114.927292,
+                "city_code": 795,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/ab4b218659731463fe0cb18c6c75db34.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/ccad9a8f6584ff427a83652fdcce6dc0.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17679153383",
+                "dist": 527746,
+                "enable": 1
+            },
+            {
+                "sid": 3093,
+                "name": "共青城市（碧水华庭店）",
+                "address": "江西省九江市共青城市共青大道碧水华庭一期四栋205（三楼）共青城市麻和友共享棋牌店",
+                "lat": 29.2512,
+                "lng": 115.776566,
+                "city_code": 792,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/ae8f7452d19e8d19edd2f4617e19e364.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/78f46bc8e678a6ce147f3a99c3d12bad.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "16607928788",
+                "dist": 580861,
+                "enable": 1
+            },
+            {
+                "sid": 3094,
+                "name": "安吉 （商贸广场店）",
+                "address": "浙江省湖州市安吉县昌硕街道递铺中路560、\n562、564号二楼(自主申报)",
+                "lat": 30.633715,
+                "lng": 119.691635,
+                "city_code": 572,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/bb99b0ff75c62ceba57142d23bc8980e.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17394691289",
+                "dist": 699702,
+                "enable": 1
+            },
+            {
+                "sid": 3098,
+                "name": "桐乡（崇福嘉凯城店）",
+                "address": "浙江省嘉兴市桐乡市崇福镇语溪大道528号",
+                "lat": 30.520603,
+                "lng": 120.432518,
+                "city_code": 573,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/5e4673b5655f51c3def9c5f0778bbd55.png",
+                "logo": "https://img.5laoban.com/Public/logo/ef3bcf80cff4875cf48c32371738418b.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13888556060",
+                "dist": 706884,
+                "enable": 1
+            },
+            {
+                "sid": 3104,
+                "name": "内蒙古（清河路店）",
+                "address": "内蒙古自治区通辽市奈曼旗大沁他拉镇福聚华城商品16号",
+                "lat": 42.851116,
+                "lng": 120.664612,
+                "city_code": 475,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/c24b68e5526e2ac1d97bc1114d2dbf64.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/e12066dd127e2bbeb72539acba67e8ae.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15147599712",
+                "dist": 2053949,
+                "enable": 1
+            },
+            {
+                "sid": 3105,
+                "name": "南浔（双林万泰路店）",
+                "address": "浙江省湖州市南浔区双林镇万泰路2号",
+                "lat": 30.774437,
+                "lng": 120.325111,
+                "city_code": 572,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/0dc7c4cd162e5019a2de7c4e5f8dab6f.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15157249481",
+                "dist": 730505,
+                "enable": 1
+            },
+            {
+                "sid": 3111,
+                "name": "太原(南中环店)",
+                "address": "山西省太原市小店区南中环大都会东区E4栋1单元102",
+                "lat": 37.793381,
+                "lng": 112.573425,
+                "city_code": 351,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/f02b706477732ff8e8a22862c3be338f.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15834044952",
+                "dist": 1571420,
+                "enable": 1
+            },
+            {
+                "sid": 3132,
+                "name": "麻和友(富豪大厦店)",
+                "address": "海南省海口市龙华区玉沙路16号富豪大厦C座北楼25楼05室",
+                "lat": 20.024536,
+                "lng": 110.320724,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/09a434a8004626e14421a049341ed2f4.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13005057971",
+                "dist": 947326,
+                "enable": 1
+            },
+            {
+                "sid": 3133,
+                "name": "南昌（开发路店）",
+                "address": "南昌市南昌县莲塘镇开发路359号中建汇鑫花苑住宅区3栋104室",
+                "lat": 28.586166,
+                "lng": 115.914391,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/89be4489803b9913062cc614fbf75541.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19100157108",
+                "dist": 508457,
+                "enable": 1
+            },
+            {
+                "sid": 3163,
+                "name": "双流（益州国际广场店）",
+                "address": " 成都市天府新区华阳街道华府大道一段益州国际广场16楼1602号（写字楼） ",
+                "lat": 30.527704,
+                "lng": 104.055801,
+                "city_code": 28,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/e8bb7f042b306ac51902d931bb679bef.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/1374e57a671bba7b09a2838c55f2c6c3.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13540348047",
+                "dist": 1543694,
+                "enable": 1
+            },
+            {
+                "sid": 3180,
+                "name": "石家庄（中山里店）",
+                "address": "河北省石家庄市胜利大街民生路交叉口中山公馆1317号 ",
+                "lat": 38.042965,
+                "lng": 114.496574,
+                "city_code": 311,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/0113324cc4eb05ce7f931068cda39017.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/ca0b85f95ce2b56bcef1a1e70b34fefc.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15533931126 ",
+                "dist": 1546575,
+                "enable": 1
+            },
+            {
+                "sid": 3186,
+                "name": "宝安西乡（坪洲店）",
+                "address": "深圳市宝安区西乡街道渔业社区名优采购中心B3区106D",
+                "lat": 22.568283,
+                "lng": 113.865822,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/467c0d1d8cc90a0dd03039c694c7f4f2.png",
+                "logo": "https://img.5laoban.com/Public/logo/4dd8135afaf97b74eca7544a03e95c7c.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15920234989",
+                "dist": 487900,
+                "enable": 1
+            },
+            {
+                "sid": 3190,
+                "name": "吉安市（金川北大道物流园门口店）",
+                "address": "江西省新干县金川北大道60物流园A栋104号及105号（物流园门口）",
+                "lat": 27.767878,
+                "lng": 115.406845,
+                "city_code": 796,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/bf439d13dfdfd7963af95fc3aa38bd69.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13766206620",
+                "dist": 457853,
+                "enable": 1
+            },
+            {
+                "sid": 3191,
+                "name": "南昌（象湖公寓尧顺路店)",
+                "address": "南昌市青云谱区象湖公寓四期一栋2号店2楼",
+                "lat": 28.617546,
+                "lng": 115.902252,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/f6e8df353d19e2f146b999fd154a08be.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18170964423",
+                "dist": 512104,
+                "enable": 1
+            },
+            {
+                "sid": 3197,
+                "name": "进贤（昌盛店）",
+                "address": "江西省进贤县民和镇昌盛路12栋5单元",
+                "lat": 28.371151,
+                "lng": 116.258835,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/da83589650ff5d75e87e8a649f59b6c9.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19100198299",
+                "dist": 472398,
+                "enable": 1
+            },
+            {
+                "sid": 3212,
+                "name": "燕郊镇（爱麻室棋牌会馆店）",
+                "address": "河北省廊坊市三河市燕郊镇102国道电厂桥东京哈路南底商西三号",
+                "lat": 39.947281,
+                "lng": 116.866005,
+                "city_code": 316,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/923c58000531718c79c76f157276e47e.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/d4444afd4ec28b76ba0867751c182b48.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15613635876",
+                "dist": 1722934,
+                "enable": 1
+            },
+            {
+                "sid": 3220,
+                "name": "金华婺城区（东阳街店）",
+                "address": "金华市婺城区三江街道东阳街1063号",
+                "lat": 29.06715,
+                "lng": 119.668427,
+                "city_code": 579,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/0e34399f3f63a7208cdea409dabadbd5.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18657952118",
+                "dist": 530585,
+                "enable": 1
+            },
+            {
+                "sid": 3221,
+                "name": "通化柳河县（水岸店）",
+                "address": "柳河水岸公馆十分钟自助洗车店旁",
+                "lat": 42.287346,
+                "lng": 125.734573,
+                "city_code": 435,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/969b033bdef7b3efc162ad5d4cc40ce0.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18104450711",
+                "dist": 2097013,
+                "enable": 1
+            },
+            {
+                "sid": 3232,
+                "name": "保定（未来石店）",
+                "address": "保定市七一东路未来石4栋11楼1108",
+                "lat": 38.878452,
+                "lng": 115.558701,
+                "city_code": 312,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/c8a0046ce375071ce01faf0bcb34e070.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17332166224",
+                "dist": 1618630,
+                "enable": 1
+            },
+            {
+                "sid": 3233,
+                "name": "深圳龙岗（横岗店）",
+                "address": "深圳市龙岗区横岗街道横岗社区松柏路130,132号201",
+                "lat": 22.64463,
+                "lng": 114.209045,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/e161227d681907ffd50b5a3d09d50314.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19065066389",
+                "dist": 452695,
+                "enable": 1
+            },
+            {
+                "sid": 3241,
+                "name": "永新县（三湾公园店）",
+                "address": "吉安市永新县禾川镇湘赣大道广源天都2楼26号店铺",
+                "lat": 26.952147,
+                "lng": 114.244324,
+                "city_code": 796,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/be9638ad58e64daaf1bf121996ea8ed6.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18244970625",
+                "dist": 479840,
+                "enable": 1
+            },
+            {
+                "sid": 3313,
+                "name": "深圳龙华（民治店）",
+                "address": "深圳市民治大道391号3楼301",
+                "lat": 22.620325,
+                "lng": 114.040016,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/64aa1258b53ffe7c567ed04a35b572fe.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/d17c7fcf05969815e672c2a4efd8cb53.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18688924414",
+                "dist": 469342,
+                "enable": 1
+            },
+            {
+                "sid": 3321,
+                "name": "深圳麻和友 （岗头店）",
+                "address": "坂田街道象角塘社区坂雪岗大道4086号A栋201",
+                "lat": 22.655943,
+                "lng": 114.071404,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/b2eb6a5515f0da9e00462a6daec02ece.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19128332731",
+                "dist": 464683,
+                "enable": 1
+            },
+            {
+                "sid": 3389,
+                "name": "高新区（华润国际店）",
+                "address": "江苏泰州华润国际花园11栋04号",
+                "lat": 32.48056,
+                "lng": 119.939133,
+                "city_code": 523,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/749c24c79148dac4c0879ad6142f1017.png",
+                "logo": "https://img.5laoban.com/Public/logo/6673f7bba451a2b93327c08b037befad.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13376078332  ",
+                "dist": 905323,
+                "enable": 1
+            },
+            {
+                "sid": 3392,
+                "name": "南昌（正荣大湖之都店）",
+                "address": "南昌市南昌县莲塘镇振兴大道333号正荣大湖之都转角综合楼商铺206室",
+                "lat": 28.586576,
+                "lng": 115.922028,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/5690677920ef9df5150a084b84793515.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17370053311",
+                "dist": 508163,
+                "enable": 1
+            },
+            {
+                "sid": 3397,
+                "name": "麻和友（海师店）",
+                "address": "海南省海口市琼山区板桥路108号 二楼 ",
+                "lat": 19.998634,
+                "lng": 110.342239,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/a5cc5901cc7c258bfc3ece21a0bf89ec.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15348892806",
+                "dist": 947014,
+                "enable": 1
+            },
+            {
+                "sid": 3402,
+                "name": " 南昌（三江店）   ",
+                "address": "南昌市南昌县三江镇三江大道333",
+                "lat": 28.296499,
+                "lng": 116.002014,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/d3dbfa43536c3635e252485745accc3c.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13479132018",
+                "dist": 475907,
+                "enable": 1
+            },
+            {
+                "sid": 3410,
+                "name": "麻和友（中骏南湾店）",
+                "address": "昌东镇艾溪湖南路1588号中骏南湾花园80商铺1#2#",
+                "lat": 28.667345,
+                "lng": 115.997124,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/e54dfc4f153122c73fc0e706dfe4e6ec.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/4f2707c7f6dd8a8819ec80dae06bdc8e.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18970900282 ",
+                "dist": 513007,
+                "enable": 1
+            },
+            {
+                "sid": 3425,
+                "name": "深圳（南岭店）",
+                "address": " 深圳市龙岗区南湾街道南岭村社区三角街1号商住楼201",
+                "lat": 22.612637,
+                "lng": 114.151031,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/0de55d6c4504277f6caf13d1325494aa.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/8cf2168e18330b385152c216d71cdd1a.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17722541982",
+                "dist": 459615,
+                "enable": 1
+            },
+            {
+                "sid": 3453,
+                "name": "孝义（义乌商博城店）",
+                "address": "山西吕梁市孝义市义乌商博城 c 区 18 栋 215-217 ",
+                "lat": 37.118305,
+                "lng": 111.78302,
+                "city_code": 358,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/4170e965b5521cbeb33f9e589372756e.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18435886015",
+                "dist": 1530022,
+                "enable": 1
+            },
+            {
+                "sid": 3494,
+                "name": "南昌市进贤县（中山大道店）",
+                "address": "江西省南昌市进贤县民和镇人民大道988号金三角小区4号楼 ",
+                "lat": 28.372549,
+                "lng": 116.244431,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/52cdddb710ace7a499176ed5296ca6f3.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13970821088 ",
+                "dist": 473120,
+                "enable": 1
+            },
+            {
+                "sid": 3499,
+                "name": "深圳（泥岗店）",
+                "address": "深圳市罗湖区清水河街道坭岗社区坭岗西村59栋红日子购物广场401",
+                "lat": 22.567369,
+                "lng": 114.099068,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/17c4a3eaa7f404c808698bf17a97d0cd.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15118105233",
+                "dist": 466677,
+                "enable": 1
+            },
+            {
+                "sid": 3504,
+                "name": "麻和友文华店 ",
+                "address": "佛山市高明区荷城街道文华路623号首层、二层   ",
+                "lat": 22.891582,
+                "lng": 112.88517,
+                "city_code": 757,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/1256ceffffe2b37008faa11f6c59f1e6.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/319592c38cb0d9d7c187dc7d7eaf9008.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18928523528",
+                "dist": 566626,
+                "enable": 1
+            },
+            {
+                "sid": 3511,
+                "name": "南昌（云海路店）",
+                "address": "南昌市西湖区桃花镇九洲街道十里庙王家大院东门三栋四号店",
+                "lat": 28.617659,
+                "lng": 115.87265,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/87835f5535c9de7231fd01b891a456e4.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/2920e05e948017dfd2ef07372a0eb029.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13627095559",
+                "dist": 513420,
+                "enable": 1
+            },
+            {
+                "sid": 3529,
+                "name": "南昌（煌盛城市花园店）",
+                "address": "南昌市南昌县小蓝经开区银湖迎宾大道\n1298号煌盛城市花园34栋1单元101室",
+                "lat": 28.566591,
+                "lng": 115.912674,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/0f652b2fa97da647dc69e5aa74bab1fb.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15879168616",
+                "dist": 506592,
+                "enable": 1
+            },
+            {
+                "sid": 3530,
+                "name": " 麻和友（长合店）",
+                "address": "湖州市安吉县天子湖镇东阳路378-380号",
+                "lat": 30.832993,
+                "lng": 119.626053,
+                "city_code": 572,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/6cc04fd9d27a641c1b15b762f90099b0.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13059990962",
+                "dist": 720018,
+                "enable": 1
+            },
+            {
+                "sid": 3532,
+                "name": "南浔（年丰路店）",
+                "address": " 浙江省湖州市南浔区年丰路408号",
+                "lat": 30.860928,
+                "lng": 120.42614,
+                "city_code": 572,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/5a6c5c864a56d8463b1d6b28c0dc4a3c.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/cdc4a3944112d72bbcbe7d2f78cbf638.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18857255486",
+                "dist": 742583,
+                "enable": 1
+            },
+            {
+                "sid": 3588,
+                "name": "南昌（红谷滩铜锣湾店） ",
+                "address": "江西省南昌市红谷滩区丰和大道龙腾小\n区1#2楼201室",
+                "lat": 28.697935,
+                "lng": 115.868004,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/d5d1ec89e033c88b706a2cf4fec479b0.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13317054246",
+                "dist": 521586,
+                "enable": 1
+            },
+            {
+                "sid": 3593,
+                "name": "麻和友（未来方舟店）",
+                "address": "贵阳市云岩区尚礼东路未来方舟D13组团1栋6楼5号（亚朵酒店）",
+                "lat": 26.594498,
+                "lng": 106.764908,
+                "city_code": 851,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64c1f9366f89ce6d8841c3348de36a65.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18185377722",
+                "dist": 1167554,
+                "enable": 1
+            },
+            {
+                "sid": 3602,
+                "name": "吉首市麻和友棋牌室（榕域酒店5楼店）",
+                "address": "湖南省吉首市乾州街道办事处人民中路390号（世纪广场商业城）503.504.505室   吉首（榕域酒店5楼店）",
+                "lat": 28.257193,
+                "lng": 109.699135,
+                "city_code": 743,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/e172cba16eb5f938db38231c809e2a1d.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/8825bd9d9bc8547b25b8d51a459cddb1.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18974330199",
+                "dist": 942124,
+                "enable": 1
+            },
+            {
+                "sid": 3630,
+                "name": " 麻和友（中寰广场店）",
+                "address": "青云谱区井冈山大道1118号中寰广场北楼902室  ",
+                "lat": 28.653238,
+                "lng": 115.910538,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/523987a0e2966178bdc8ac2cd18b5b0e.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/f1a350646268bdf0be840fc909a118cf.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15707918388",
+                "dist": 515291,
+                "enable": 1
+            },
+            {
+                "sid": 3635,
+                "name": "深圳麻和友（大芬店）",
+                "address": "深圳市龙岗区中翠路106号和通幼儿园商铺16号",
+                "lat": 22.614079,
+                "lng": 114.140236,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/728bb7be3459b40dba91a73943e06f5f.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/de9f06002a558c175a094d83ce5f7706.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13510654688",
+                "dist": 460522,
+                "enable": 1
+            },
+            {
+                "sid": 3650,
+                "name": "顺外路（孙家亭店）",
+                "address": "江西省南昌市青山湖区孙家亭路4号",
+                "lat": 28.665083,
+                "lng": 115.928909,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/f6f6b4a73889cebcefd84e5e4356ba67.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17507092972",
+                "dist": 515677,
+                "enable": 1
+            },
+            {
+                "sid": 3658,
+                "name": "扬州（金辉优步店）",
+                "address": "观潮路1178号（吾优花园）北二楼商铺206室",
+                "lat": 32.410732,
+                "lng": 119.466919,
+                "city_code": 514,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/c85466b9436e6c3c40ff4e09aed0014b.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/2f1faf9a06ee22b8dbe287858dcfca05.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15166635536",
+                "dist": 890040,
+                "enable": 1
+            },
+            {
+                "sid": 3686,
+                "name": "麻和友（华银大厦店）",
+                "address": "海南省海口市龙昆北路华银大厦IHK酒吧右侧北门上A区701房",
+                "lat": 20.024284,
+                "lng": 110.330719,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/7b59f676e57451bd26f3b45448b641dc.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13215779300",
+                "dist": 946466,
+                "enable": 1
+            },
+            {
+                "sid": 3707,
+                "name": "金华（高村店）",
+                "address": "金华市婺城区新狮街道高村同心路87号师大创心楼3楼北面\n",
+                "lat": 29.136671,
+                "lng": 119.636963,
+                "city_code": 579,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/898007b9f5cccb14f3bf309067c6a0f8.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15967946412",
+                "dist": 537146,
+                "enable": 1
+            },
+            {
+                "sid": 3780,
+                "name": "解放西路（青云小镇店）",
+                "address": " 江西省南昌市青云谱区解放西路426号楞上综合大楼二楼",
+                "lat": 28.651304,
+                "lng": 115.940735,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/1ab961cd8493167fb7a54331da95b753.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13970058551",
+                "dist": 513794,
+                "enable": 1
+            },
+            {
+                "sid": 3844,
+                "name": "南昌（东岳大道店）",
+                "address": " 江西省南昌市南昌县东岳大道116号平安象湖风情",
+                "lat": 28.589094,
+                "lng": 115.889885,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/9c7b9f205c4c6e8fcdb33f5419321ef8.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13699522692",
+                "dist": 509828,
+                "enable": 1
+            },
+            {
+                "sid": 3851,
+                "name": "南昌  (幸福时光店)",
+                "address": "江西省南昌县象湖幸福时光诚义路300号",
+                "lat": 28.584244,
+                "lng": 115.875008,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/d445eccce7fa91db403ffd99ccaf362f.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13263099102",
+                "dist": 510010,
+                "enable": 1
+            },
+            {
+                "sid": 3864,
+                "name": "麻和友测试店铺",
+                "address": "",
+                "lat": 0,
+                "lng": 0,
+                "city_code": 0,
+                "status": 1,
+                "logo": null,
+                "facade_img": "",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "dist": 12829436,
+                "enable": 1
+            },
+            {
+                "sid": 3865,
+                "name": "益阳（汽车北站店）",
+                "address": "湖南省益阳市资阳区长春经开区马良社区长春东路汽车北站旁二楼",
+                "lat": 28.599613,
+                "lng": 112.335266,
+                "city_code": 737,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/38da5cb3a41f8fdded175a96c1c73662.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15874856355",
+                "dist": 739070,
+                "enable": 1
+            },
+            {
+                "sid": 3866,
+                "name": "益阳（幸福渠路店）",
+                "address": "湖南省益阳市资阳区长春经开区马良社区幸福渠东路13栋",
+                "lat": 28.609079,
+                "lng": 112.353737,
+                "city_code": 737,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/935af68eaad05a1787b97fd13be4da82.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13511139556",
+                "dist": 738263,
+                "enable": 1
+            },
+            {
+                "sid": 3874,
+                "name": "兴庆区天誉名邸店",
+                "address": "银川市兴庆区解放东街碧桂园天誉名邸22号楼101商铺2楼",
+                "lat": 38.461552,
+                "lng": 106.320778,
+                "city_code": 951,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/7b505efb18e7062f9f71076860f61dc0.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19995130072",
+                "dist": 1913440,
+                "enable": 1
+            },
+            {
+                "sid": 3880,
+                "name": "深圳（大浪店）",
+                "address": "龙华区大浪街道华昌路华富工业园金百纳商业广场北座2层15号  ",
+                "lat": 22.676504,
+                "lng": 114.000496,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/8634f900d459baa801e2ad33673192a4.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "190 6505 9691",
+                "dist": 470180,
+                "enable": 1
+            },
+            {
+                "sid": 3881,
+                "name": " 深圳（固戍联昇商务大厦店）",
+                "address": "广东省深圳市宝安区宝安大道4710号固戍联昇商务大厦512号",
+                "lat": 22.597054,
+                "lng": 113.849754,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/de33bccee93b0d5ba6f1fabf48144d47.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13825285167",
+                "dist": 487950,
+                "enable": 1
+            },
+            {
+                "sid": 3924,
+                "name": "巴中（财富广场店）",
+                "address": "四川省巴中市财富广场B栋商务楼15楼",
+                "lat": 31.853979,
+                "lng": 106.775345,
+                "city_code": 827,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/c74a8d6863dca2f7187f1cc1a6b726be.jpeg",
+                "logo": "https://img.5laoban.com/Public/logo/ecf161fd9425dc12614922efdac00c20.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "16608279001",
+                "dist": 1383607,
+                "enable": 1
+            },
+            {
+                "sid": 3927,
+                "name": "贵阳市花溪区麻和友缤纷广场店",
+                "address": "贵阳市经济开发区北大资源缤纷广场A2栋10楼4号5号",
+                "lat": 26.516384,
+                "lng": 106.699234,
+                "city_code": 851,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/cb20248d6c3d44d13eec72a57320169a.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": " 15585130066 ",
+                "dist": 1172670,
+                "enable": 1
+            },
+            {
+                "sid": 3929,
+                "name": "新塍（佳源中心广场店）",
+                "address": "嘉兴市秀洲区新塍镇佳源中心广场8幢117室",
+                "lat": 30.794285,
+                "lng": 120.616623,
+                "city_code": 573,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/0b0e11935a20899efab1d55b4b8c376c.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19805837156",
+                "dist": 741390,
+                "enable": 1
+            },
+            {
+                "sid": 3931,
+                "name": "湖州（海明广场店）",
+                "address": "浙江省湖州市南太湖新区海明商住广场B幢青铜路237-239号2楼",
+                "lat": 30.906389,
+                "lng": 120.076736,
+                "city_code": 572,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/fd000a287e362bf3532fc4485a2f56a6.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18507050420",
+                "dist": 737958,
+                "enable": 1
+            },
+            {
+                "sid": 3932,
+                "name": "莲塘力高分部万科城市花园店",
+                "address": "南昌县莲塘镇斗南路566号城市花园住宅区8栋203室",
+                "lat": 28.531906,
+                "lng": 115.934906,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/96806130f20d6495d40af3e2c2cab883.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18970800595",
+                "dist": 502173,
+                "enable": 1
+            },
+            {
+                "sid": 3936,
+                "name": "麻和友龙山店  ",
+                "address": "佛山市顺德区龙江镇龙山社区龙山大道龙山商业中心一栋116号二层商铺之一 ",
+                "lat": 22.84742,
+                "lng": 113.040985,
+                "city_code": 757,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/f71e3eda7c27ff0b01d5b4c595e97f9d.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18924855843",
+                "dist": 553260,
+                "enable": 1
+            },
+            {
+                "sid": 3940,
+                "name": "南城（九鼎店）",
+                "address": "抚州市南城县建昌镇交通路199号1区2号楼1号、2号（九鼎商贸城2栋格力空调3楼）",
+                "lat": 27.563826,
+                "lng": 116.645264,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19318812789",
+                "dist": 375025,
+                "enable": 1
+            },
+            {
+                "sid": 3942,
+                "name": "海口（农垦旗舰店）",
+                "address": "海南省海口市龙华区海垦街道海垦路50-2",
+                "lat": 20.005701,
+                "lng": 110.30703,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/50074666fec5327edab1a93982649a2e.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/bf7a5117c96682775832a9859e786856.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15180690502",
+                "dist": 949665,
+                "enable": 1
+            },
+            {
+                "sid": 3947,
+                "name": "海口（西溪里店）",
+                "address": "海口市海甸一东路西溪里商街C301房（甜蜜咖啡后侧）",
+                "lat": 20.048098,
+                "lng": 110.348877,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/5ebb42071d0164529866cdffecbbd382.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/71ce5e66ce6d31774753a4c247478c0a.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18976211373",
+                "dist": 943436,
+                "enable": 1
+            },
+            {
+                "sid": 3951,
+                "name": "湖南（汝城三江花苑店）",
+                "address": "湖南省郴州市汝城县卢阳镇神农大道三江花苑7栋202",
+                "lat": 25.528795,
+                "lng": 113.687752,
+                "city_code": 735,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/5bfca69371e11fafbda914f4fce8f06c.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17674100998",
+                "dist": 466711,
+                "enable": 1
+            },
+            {
+                "sid": 3985,
+                "name": "麻和友庐山市（秀峰大道店）",
+                "address": "九江市庐山市南康镇秀峰大道63号",
+                "lat": 29.458652,
+                "lng": 116.039635,
+                "city_code": 792,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/9ae5e1f1a17655ea919fc822b863c300.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13576221606",
+                "dist": 592086,
+                "enable": 1
+            },
+            {
+                "sid": 4038,
+                "name": "庐山市紫阳北路麻和友店",
+                "address": "庐山市紫阳北路星光花园A栋一楼门面店",
+                "lat": 29.452513,
+                "lng": 116.04438,
+                "city_code": 792,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18979253717",
+                "dist": 591283,
+                "enable": 1
+            },
+            {
+                "sid": 4057,
+                "name": "衡水（大庆路店）",
+                "address": "河北省衡水市桃城区大庆路富强街交叉口东南角红光社区卫生站二楼",
+                "lat": 37.750435,
+                "lng": 115.685074,
+                "city_code": 318,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/7dc3af7289d1122548402c8d831f31f0.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "19103186567",
+                "dist": 1493206,
+                "enable": 1
+            },
+            {
+                "sid": 4058,
+                "name": "南昌（西湖万达店）",
+                "address": "江西省南昌市西湖区云锦路508号信华商务中心207室",
+                "lat": 28.633293,
+                "lng": 115.861229,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/be49cd7c2cb602829d33476b4d7fb5a1.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "187 0269 8766",
+                "dist": 515474,
+                "enable": 1
+            },
+            {
+                "sid": 4068,
+                "name": "海口（世贸店）",
+                "address": "海口市龙华区金贸西8号诚田大厦18楼C房",
+                "lat": 20.02042,
+                "lng": 110.302078,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/25ca1df32ac18d6e8a845debfddeacdb.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18876655776",
+                "dist": 949209,
+                "enable": 1
+            },
+            {
+                "sid": 4079,
+                "name": "麻和友（府城店）",
+                "address": "琼山区府城中介路步行街旁中山北路51号城市便捷酒店二楼",
+                "lat": 20.002985,
+                "lng": 110.353729,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/3ce68df2e2c8b21cf31b4c7b45741b47.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15798951730",
+                "dist": 945745,
+                "enable": 1
+            },
+            {
+                "sid": 4144,
+                "name": "南昌（安宝大道店）",
+                "address": "南昌市南昌县莲塘镇银河大道277号",
+                "lat": 28.522758,
+                "lng": 115.937912,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/330b3530489fb3deff0af9409696584e.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17370038333",
+                "dist": 501133,
+                "enable": 1
+            },
+            {
+                "sid": 4269,
+                "name": "深圳（福永店）",
+                "address": "广东省深圳市宝安区福永碧桂园智慧3栋34号铺",
+                "lat": 22.683226,
+                "lng": 113.832321,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13823379265",
+                "dist": 485405,
+                "enable": 1
+            },
+            {
+                "sid": 4299,
+                "name": "麻和友佛山（北滘店）",
+                "address": "佛山市顺德区北滘镇北滘社区跃进北路8号商铺二楼之一",
+                "lat": 22.930391,
+                "lng": 113.20507,
+                "city_code": 757,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/6049d03e57c55029182838a166ea0eb2.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15813674829",
+                "dist": 534322,
+                "enable": 1
+            },
+            {
+                "sid": 4365,
+                "name": "汝城县（濂溪书院店）",
+                "address": "湖南省郴州市汝城县卢阳镇濂溪小区7栋二楼",
+                "lat": 25.548506,
+                "lng": 113.680107,
+                "city_code": 735,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17674156118",
+                "dist": 467971,
+                "enable": 1
+            },
+            {
+                "sid": 4376,
+                "name": "上饶 (上饶绿地城店) ",
+                "address": "上饶市上饶经济技术开发区凤凰西大道136号 绿地城商业街29栋201、202、203、204室",
+                "lat": 28.405039,
+                "lng": 117.888313,
+                "city_code": 793,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/3590ef35bae0fb88b10e8f618da6faa2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15879362936",
+                "dist": 436890,
+                "enable": 1
+            },
+            {
+                "sid": 4395,
+                "name": "麻和友（东茗茶庄店）",
+                "address": "浙江省金华市金东区多湖街道东宁路228弄16、18、20、22、24、26号二楼  ",
+                "lat": 29.102011,
+                "lng": 119.690117,
+                "city_code": 579,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/79b198dab9b81473c0ea6f2eacfd60e8.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18868591747",
+                "dist": 534899,
+                "enable": 1
+            },
+            {
+                "sid": 4397,
+                "name": "南昌（瑶湖新立方店）",
+                "address": " 南昌市南昌高新技术产业开发区昌东镇光明村黄家小区C区5栋1单元101室",
+                "lat": 28.672661,
+                "lng": 116.018265,
+                "city_code": 791,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/5292be950236c8bf2ff827f6741bb4f9.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15070031668",
+                "dist": 512658,
+                "enable": 1
+            },
+            {
+                "sid": 4400,
+                "name": "杭州（萧山东方文化园店）",
+                "address": "杭州萧山义桥镇东方文化园步行街10幢08  19",
+                "lat": 30.099611,
+                "lng": 120.192268,
+                "city_code": 571,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/742e2c2a26debc9466936d9cfd43cd24.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18906713600",
+                "dist": 655202,
+                "enable": 1
+            },
+            {
+                "sid": 4402,
+                "name": " 邵阳（青年路店）",
+                "address": "湖南省邵阳市城步苗族自治县儒林镇青年路34号",
+                "lat": 26.390598,
+                "lng": 110.322243,
+                "city_code": 739,
+                "status": 1,
+                "facade_img": "https://img.5laoban.com/Public/logo/546dfaf66e98dcda06e23ce5ae6a1dc5.jpg",
+                "logo": "https://img.5laoban.com/Public/logo/1dfc630f85594b1dbb756409e19a3830.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18528322484 ",
+                "dist": 816023,
+                "enable": 1
+            },
+            {
+                "sid": 4413,
+                "name": "承德（老法院店）",
+                "address": "河北承德平泉市平泉镇兴平街原老法院大楼四层419、420室 ",
+                "lat": 41.005142,
+                "lng": 118.688927,
+                "city_code": 314,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/8efab24b8261129ee03c1f8750597e34.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18931408995",
+                "dist": 1836755,
+                "enable": 1
+            },
+            {
+                "sid": 4437,
+                "name": "天津麻和友（学府路店）",
+                "address": "天津市滨海新区麻和友学府路店(学府路9号）",
+                "lat": 38.858917,
+                "lng": 117.471306,
+                "city_code": 22,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/c754cc522664fe4596f8cdafffe5021b.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15620773111",
+                "dist": 1599014,
+                "enable": 1
+            },
+            {
+                "sid": 4445,
+                "name": "天津麻和友（福源花园店）",
+                "address": "天津市滨海新区旭日路278号2楼（从足康上二楼）",
+                "lat": 38.852646,
+                "lng": 117.494087,
+                "city_code": 22,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/148b674ac2042fc3f736690562801762.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15620773111",
+                "dist": 1598231,
+                "enable": 1
+            },
+            {
+                "sid": 4491,
+                "name": "源城区（华达北街店）",
+                "address": "河源市源城区华达北街111号第三层",
+                "lat": 23.763716,
+                "lng": 114.692596,
+                "city_code": 762,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/62ee1d0f189fe4d1c6e22c1bdedcca49.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15216900730",
+                "dist": 362185,
+                "enable": 1
+            },
+            {
+                "sid": 4517,
+                "name": "赣县区(贡江学府店)",
+                "address": "赣县区绍京路9号贡江学府9栋10103商铺",
+                "lat": 25.857256,
+                "lng": 115.010071,
+                "city_code": 797,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/ec2de223d030b98f1e73ccd2d0e4e653.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13766320938",
+                "dist": 353174,
+                "enable": 1
+            },
+            {
+                "sid": 4614,
+                "name": "上饶（芦田嘉园店）",
+                "address": "上饶市鄱阳县芦田嘉园商业街3号楼A座1层106号",
+                "lat": 28.981144,
+                "lng": 116.940079,
+                "city_code": 793,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17379332226",
+                "dist": 514787,
+                "enable": 1
+            },
+            {
+                "sid": 4633,
+                "name": "深圳（石龙仔店）",
+                "address": "广东省深圳市宝安区石岩街道石龙社区创业路2号二层",
+                "lat": 22.7038,
+                "lng": 113.969475,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/c3dc2d3435022a1584a766330bd36a12.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13622375058",
+                "dist": 471721,
+                "enable": 1
+            },
+            {
+                "sid": 4658,
+                "name": "麻和友天津（胜利街店）",
+                "address": "天津市滨海新区大港街道胜利街8号福港商场二楼    ",
+                "lat": 38.839779,
+                "lng": 117.45401,
+                "city_code": 22,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/91131f58a20657c17da86084c89c99a0.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18522873774",
+                "dist": 1596958,
+                "enable": 1
+            },
+            {
+                "sid": 4688,
+                "name": "海口（友谊店）",
+                "address": "海口市龙华区华典大厦（湘辉度假酒店上）22楼2203",
+                "lat": 20.036642,
+                "lng": 110.336578,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/0721f94bebacb0deea682c93c5ac189c.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18789276197",
+                "dist": 945206,
+                "enable": 1
+            },
+            {
+                "sid": 4711,
+                "name": "深圳 (塘坑店)",
+                "address": "深圳市龙岗区横岗街道四联社区新塘坑南一巷2号202",
+                "lat": 22.642611,
+                "lng": 114.199211,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/ebaf47a5972c1f03c7115d336693484d.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18707550470",
+                "dist": 453693,
+                "enable": 1
+            },
+            {
+                "sid": 4744,
+                "name": "龙游（约麻）",
+                "address": "龙游县模坏乡永泰路19号(龙游工业园区）龙天和园3棟锦里44号",
+                "lat": 29.089842,
+                "lng": 119.240295,
+                "city_code": 570,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18590309005",
+                "dist": 522811,
+                "enable": 1
+            },
+            {
+                "sid": 4763,
+                "name": "深圳（平湖店）",
+                "address": "深圳市龙岗区平湖街道凤凰社区新凤南街44号（心心酒店三楼）",
+                "lat": 22.692289,
+                "lng": 114.134064,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/3e0007c8435406ba1b124a5758b5c255.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13129545280",
+                "dist": 457129,
+                "enable": 1
+            },
+            {
+                "sid": 4764,
+                "name": "深圳（宝安翻身店）",
+                "address": "广东省深圳市宝安44区顺丰路（鸿都创客空间）二楼物业203A、206室",
+                "lat": 22.558542,
+                "lng": 113.895546,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/97b891b2177f66fe042f5e85ff2eaa3f.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13437313629",
+                "dist": 485666,
+                "enable": 1
+            },
+            {
+                "sid": 4766,
+                "name": "宝安（上合店）",
+                "address": "深圳市宝安区32区上川村海都商铺152-3号",
+                "lat": 22.579153,
+                "lng": 113.901711,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/d831a4b279365b8b3fdb632db589974d.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18922823514",
+                "dist": 484067,
+                "enable": 1
+            },
+            {
+                "sid": 4767,
+                "name": "深圳布吉(长龙店)",
+                "address": "龙岗区吉华街道水径社区布吉西环路6号信达商业中心自编A81号商铺",
+                "lat": 22.608114,
+                "lng": 114.112106,
+                "city_code": 755,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/5aabaec0a35e254bcf8ae346df770515.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13802270726",
+                "dist": 463387,
+                "enable": 1
+            },
+            {
+                "sid": 4776,
+                "name": "包河区（五月花店)",
+                "address": "合肥市包河区漓江路五月花C10一03",
+                "lat": 31.702881,
+                "lng": 117.298759,
+                "city_code": 551,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/d83132beaaa429ba8035157c29dec67d.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18855120988",
+                "dist": 807009,
+                "enable": 1
+            },
+            {
+                "sid": 4857,
+                "name": "麻和友（庄上邹家店）",
+                "address": "高安市瑞州街道连锦庄上邹家小区一栋一单元102",
+                "lat": 28.422388,
+                "lng": 115.390144,
+                "city_code": 795,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/464340e1965afa6afae9d51ea48bf9e4.png",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17770527178",
+                "dist": 518177,
+                "enable": 1
+            },
+            {
+                "sid": 4899,
+                "name": "麻和友(面前坡店)",
+                "address": "海口市龙华区南沙路面前坡天德园1号楼1单元2101房",
+                "lat": 20.043333,
+                "lng": 110.352821,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15595964906",
+                "dist": 943378,
+                "enable": 1
+            },
+            {
+                "sid": 4938,
+                "name": "黔南州（河畔阳光店）",
+                "address": "贵州省黔南布衣苗族自治州瓮安县瓮水办事处河畔阳光A1—1—12号门面",
+                "lat": 27.062586,
+                "lng": 107.471573,
+                "city_code": 854,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "18785476077",
+                "dist": 1108499,
+                "enable": 1
+            },
+            {
+                "sid": 4942,
+                "name": "麻和友（飓风台球北港店）",
+                "address": "江西省抚州市东乡区汝河南路8号",
+                "lat": 28.238491,
+                "lng": 116.616005,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13755656877",
+                "dist": 445391,
+                "enable": 1
+            },
+            {
+                "sid": 4952,
+                "name": "建始华龙城二期店",
+                "address": "建始县红土大道华龙二期大门",
+                "lat": 30.602797,
+                "lng": 109.708069,
+                "city_code": 718,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15587654440",
+                "dist": 1075790,
+                "enable": 1
+            },
+            {
+                "sid": 4963,
+                "name": "天津（阳光佳园店）",
+                "address": "天津市滨海新区海滨街道团结西路211号",
+                "lat": 38.724762,
+                "lng": 117.484116,
+                "city_code": 22,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15822938686",
+                "dist": 1584071,
+                "enable": 1
+            },
+            {
+                "sid": 4969,
+                "name": "琼山（兴丹路店）",
+                "address": "海口市国兴街道琼山区兴丹路37号二楼",
+                "lat": 20.005066,
+                "lng": 110.3666,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13138937765",
+                "dist": 944494,
+                "enable": 1
+            },
+            {
+                "sid": 5128,
+                "name": "抚州（锦绣花园店）",
+                "address": "抚州市南丰县琴城镇环城南路旁锦绣家园13号楼二层02-06号店铺",
+                "lat": 27.207029,
+                "lng": 116.525749,
+                "city_code": 794,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "15079459130",
+                "dist": 344867,
+                "enable": 1
+            },
+            {
+                "sid": 5158,
+                "name": "银川（永宁店）",
+                "address": "宁夏回族自治区银川市永宁县杨和镇杨和新村二期42-24号",
+                "lat": 38.270325,
+                "lng": 106.264435,
+                "city_code": 951,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17811174870",
+                "dist": 1900147,
+                "enable": 1
+            },
+            {
+                "sid": 5160,
+                "name": "安徽无为（城市广场店）",
+                "address": "无为市无城镇城市广场1号楼31号",
+                "lat": 31.28466,
+                "lng": 117.939301,
+                "city_code": 553,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "13041295598",
+                "dist": 756307,
+                "enable": 1
+            },
+            {
+                "sid": 5182,
+                "name": "麻和友（万达步行街皇茶店）",
+                "address": "海口秀英区万达南洋里步行街皇茶隔壁D3-101铺面",
+                "lat": 19.979715,
+                "lng": 110.280327,
+                "city_code": 898,
+                "status": 1,
+                "facade_img": "",
+                "logo": "https://img.5laoban.com/Public/logo/64642c1a086f1bb146a0504ca8be2ec2.jpg",
+                "open_time":
+                [
+                    "00:00",
+                    "00:00"
+                ],
+                "telephone": "17886733515",
+                "dist": 953578,
+                "enable": 1
+            }
+        ]
+    }
+}
