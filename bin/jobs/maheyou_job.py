@@ -60,6 +60,9 @@ def maheyou_request_data(store_id):
             log.warn('request duole failed. res: %s' % res)
             warning_mail('Request Maheyou Failed', res)
             return
+    except requests.Timeout as e:
+        log.error('Time out. request maheyou data timeout, step over. store_id: %s' % store_id)
+        log.error(traceback.format_exc())
     except Exception as e:
         log.error(e)
         log.error(traceback.format_exc())
