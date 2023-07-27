@@ -49,7 +49,7 @@ def maheyou_request_data(store_id):
 
     try:
         log.info('start to request maheyou data. store_id: %s' % store_id)
-        response = requests.post(URL, headers=headers, data=data, verify=False)
+        response = requests.post(URL, headers=headers, data=data, verify=False, timeout=5)
         json_data = response.text
         # print(json_data)
         res = json.loads(json_data)
